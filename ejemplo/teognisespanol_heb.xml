@@ -1,0 +1,2119 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="app.rnc" type="application/relax-compact-syntax"?><?xml-stylesheet type="text/xsl" href="teognis.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Elegías de Teognis <ptr target="https://es.wikipedia.org/wiki/Teognis/"/>
+				</title>
+				<author>Patricia Garrido Teixeira </author>
+				<respStmt>
+					<resp>Tutelado por: </resp>
+					<name>Adrián Menéndez de la Cuesta</name>
+					<name>Juan Antonio Álvarez-Pedrosa</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<p>Trabajo de Fin de Máster de Patricia Garrido.</p>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Elegías de Teognis</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div type="elegías">
+				<head>Libro 1</head>
+				<div type="elegías">
+					<head>Libro 1</head>
+					<div n="1">
+						<lg n="1">
+							<l>Oh soberano, hijo de Leto, vástago de Zeus,</l>
+							<l>de ti nunca me olvidaré al comenzar ni al concluir, sino que siempre
+								el primero,</l>
+							<l>el último y en medio te cantaré. Mas tú escúchame y concédeme</l>
+							<l>tu favor. Soberano Febo, cuando te dio a luz la augusta</l>
+							<l>diosa Leto, sujeta a una palmera con gráciles manos, a ti, el</l>
+							<l>más bello de los inmortales, junto a una laguna redondeada, la</l>
+							<l>sagrada Delos se llenó toda de una divina fragancia, y la enorme</l>
+							<l>tierra sonrió y se gozó el profundo abismo de la mar canosa.</l>
+						</lg>
+						<lg n="2">
+							<l>Ártemis cazadora, hija de zeus, quien Agamenón erigió un</l>
+							<l>templo, cuando hacia Troya navegaba con raudas naves, escúchame</l>
+							<l>a mí, que te imploro, y aparta las funestas Ceres: para ti,</l>
+							<l>diosa, esto es algo pequeño, para mi grande.</l>
+						</lg>
+						<lg n="3">
+							<l>Musas y Gracias, hijas de Zeus, que anataño, cuando a la boda</l>
+							<l>de Cadmo acudisteis, cantasteis este hermoso verso: "Lo que es</l>
+							<l>bello es querido; lo que no es bello, no es querido". Este verso</l>
+							<l>salió de vuestras bocas inmortales.</l>
+						</lg>
+						<lg n="4">
+							<l>Cirno, para mí que soy un artista instruido un sello quede</l>
+							<l>impuesto sobre estos versos: si son robados, nunca pasarán
+								inadvertidos, y nadie estropeará lo que de bueno hay en ellos.</l>
+						</lg>
+						<lg n="5">
+							<l>Todo el mundo dirá así: "Son versos de Teognis de Mégara":
+								célebre</l>
+							<l>entre todos los hombres. Mas a todos mis conciudadanos</l>
+							<l>en modo alguno puedo agradarlos. Nada extraño, Polipaides; en</l>
+							<l>efecto, tampoco Zeus agrada a todos cuando envía la lluvia ni</l>
+							<l>cuando la detiene.</l>
+						</lg>
+						<lg n="6">
+							<l>Por sentir afecto hacia ti, te aconsejaré, Cirno, lo que yo
+								mismo,</l>
+							<l>siendo aún un niño, aprendí de los hombres de bien. Sé</l>
+							<l>sensato y no busques mediante acciones deshonrosas ni injustas</l>
+							<l>honores ni méritos ni riqueza.</l>
+						</lg>
+						<lg n="7">
+							<l>Sábete bien esto; y no tengas trato con los malvados, sino</l>
+							<l>mantente siempre junto a los hombres de bien. Bebe y come</l>
+							<l>juto a ellos, y sé grato a aquellos cuyo poder es grande. De los</l>
+							<l>nobles aprenderás cosas buenas, mas si con los malvados te</l>
+							<l>mezclas, echarás a perder incluso el buen sentido que hay en ti.</l>
+							<l>Tras aprender esto, relaciónate con hombres de bien y algún día</l>
+							<l>podrás decir que aconsejo bien a los amigos.</l>
+						</lg>
+						<lg n="8">
+							<l>Cirno, esta ciudad está preñada y temo que ela engendre un</l>
+							<l>hombre que corrija nuestra funesta soberbia. Pues estos</l>
+							<l>ciudadanos asún son más sensatos, pero los gobernantes están
+								abocados</l>
+							<l>a caer en una gran maldad. Ninguna ciudad, Cirno, arruinaron</l>
+							<l>jamás los hombres de bien; pero cuando a los malvados</l>
+							<l>place ser insolentes, corrompen al pueblo y emiten sentencias a</l>
+							<l>favor de los inicuos, por mor del prvecho personal y del poder.</l>
+							<l>No esperes que aquella ciudad permanezca tranquila por mucho</l>
+							<l>tiempo, aunque ahora esté en gran calma, una vez que</l>
+							<l>los malvados tengan querencia por estas cosas, que conllevan</l>
+							<l>provecho con perjuicio público. Pues de todo esto surgen las
+								sediciones,</l>
+							<l>las matanzas entre conciudadanos y los tiranos: que</l>
+							<l>ello nunca sea grato a la ciudad.</l>
+						</lg>
+					</div>
+					<div n="53">
+						<lg n="9">
+							<l>Cirno esta ciudad aún es una ciudad, mas son distintas sus</l>
+							<l>gentes: oos que antes no conocían ni el derecho ni las leyes,
+								sino</l>
+							<l>que en torno a sus costados gastaban pieles de cabras y como</l>
+							<l>ciervos se esparcían fuera de esta ciudad, ¡ahora son nobles,</l>
+							<l>Polipaides! Y los nombres de antaño son ahora plebeyos ¿Quién</l>
+							<l>podría soportar ver est? Unos a otros se engañan riéndose</l>
+							<l>unos de otros, desconociendo las normas de lo malo y de lo</l>
+							<l>bueno. A ninguno de estos ciudadanos, Polipaides, hagas</l>
+							<l>tu amigo de corazón por causa de necesidad alguna: por el</l>
+							<l>contrario, aparenta ser amigo de todos de palabra, mas con</l>
+							<l>ninguno te mezcles en cualquier empresa impotante, pues conocerás</l>
+							<l>el carácter de estos hombres miserables, porue no</l>
+							<l>puede haber foncianza alguna en sus actos, sino que aman las</l>
+							<l>trampas, los engaños y los enredos, tal como hombres ya sin</l>
+							<l>salvación.</l>
+						</lg>
+						<lg n="10">
+							<l>Jamás, Cirno, confiado deliberes con un hombre malvado</l>
+							<l>cuando quieras llevar a cabo un asunto importante; por el</l>
+							<l>contrario, yendo en pos del honrado, prefiere soportar abundantes</l>
+							<l>fatigas y recorrer con tus pies, Cirno, un largo camino.</l>
+						</lg>
+						<lg n="11">
+							<l>No comuniques por completo tus proyectos a todos tus amigos:</l>
+							<l>pocos entre muchos tienen una intención honrada.</l>
+						</lg>
+						<lg n="12">
+							<l>Confiado en pocos, pon en práctica tus empresas importantes,</l>
+							<l>para que no sufras, Cirno, un perjuicio irreparable.</l>
+						</lg>
+						<lg n="13">
+							<l>Un hombre leal es digno de ser comparado con el oro y con la</l>
+							<l>plata, Cirno, en la terrible contienda civil.</l>
+						</lg>
+						<lg n="14">
+							<l>Hallarás pocos amigos, Polipaides, que te resulten leales en </l>
+							<l>situaciones adversas, y que teniendo un corazón acorde con</l>
+							<l>el tuyo se atrevan a participar por igual de los bienes y de los</l>
+							<l>males.</l>
+						</lg>
+						<lg n="15">
+							<l>Buscándolos entre todas las gentes no podrías hallar hombres,</l>
+							<l>a los que una sola nave no pueda transportar y en cuya lengua</l>
+							<l>y ojos resida el pudor, y a los que el deseo de ganancia no</l>
+							<l>conduzca una acción indecente.</l>
+						</lg>
+						<lg n="16">
+							<l>No me quieras de palabra, mientras que tu pensamiento y tus</l>
+							<l>sentimientos están en otra parte, si es que me amas y tienes una</l>
+							<l>intención honrada. Ámame con intención sincera o, rompiendo</l>
+							<l>conmigo, aborréceme emprendiendo abiertamente una querella.</l>
+							<l>El que tiene una doble intención con una sola lengua, ése es</l>
+							<l>un compañero peligroso, Cirno: es preferible que sea enemigo</l>
+							<l>antes que amigo.</l>
+						</lg>
+						<lg n="17">
+							<l>Si alguien te alaba tanto tiempo como lo tuvieras ante los ojos,</l>
+							<l>pero, una vez que se ha alejado a otro sitio, deja oír su mala
+								lengua,</l>
+							<l>tal compañero tuyo no es ciertamente un buen amigo, si dice</l>
+							<l>cosas gratas con la lengua y piensa otras distintas.</l>
+						</lg>
+						<lg n="18">
+							<l>Ojalá tuviera yo un amigo así, que conociendo a su compañero</l>
+							<l>lo soporte, aunque sea de difícil carac´ter, como si fuera un</l>
+							<l>hermano. Medítame estas ideas, querido amigo, en tu corazón, y</l>
+							<l>algún día te acordarás de mí.</l>
+						</lg>
+					</div>
+					<div n="101">
+						<lg n="19">
+							<l>Ninguno de los hombres te convenza de tener amistad con un</l>
+							<l>malvado, Cirno: ¿qué provecho hay en tener como amigo a un
+								miserable?</l>
+							<l>No podría librarte de una situación difícil ni de la ruina, y</l>
+							<l>si tuviera una fortuna, no querría hacerte partícipe de ella. Una</l>
+							<l>gratitud muy vana obtiene el que hace bien a miserables: es igual</l>
+							<l>que sembrar la llanura de la mar canosa; porque ni sembrando en</l>
+							<l>el mar segarías una gran cosecha ni obtendrías beneficios a
+								cambio</l>
+							<l>si haces bien a los malvados. Pues los malvados tienen una
+								voluntad</l>
+							<l>insaciable; y si yerras en una sola cosa, la amistad de todos los</l>
+							<l>favores anteriores se esfuma; mientras que los hombres de </l>
+							<l>bien, al recibir un beneficio, los disfrutan en el más alto grando, y
+								en</l>
+							<l>lo sucesivo guardan memoria y gratitud por los favores.</l>
+						</lg>
+						<lg n="20">
+							<l>Jamás hagáis vuestro compañero querido a un hombre malvado,</l>
+							<l>sino más bien rehuidle siempre como a un mal puerto.</l>
+						</lg>
+						<lg n="21">
+							<l>Muchos son los compañeros para la bebida y la comida,</l>
+							<l>mas pocos para un asunto serio.</l>
+						</lg>
+						<lg n="22">
+							<l>Nada ás difícil de conocer que un hombre falso, Cirno, y</l>
+							<l>nada precisa de mayor precaución.</l>
+						</lg>
+						<lg n="23">
+							<l>El defecto del oro y de la plata falsos es soportable, Cirno, y</l>
+							<l>fácil de descubrir para un hombre experto; pero si la intención</l>
+							<l>de un amigo queda oculta en su pecho, por ser falsa y guarda</l>
+							<l>en sus entrañas un corazón engañoso, eso es lo más falso que</l>
+							<l>la divinidad ha creado para los mortales y también lo más
+								doloroso</l>
+							<l>de todo de descrubrir. Pues no podrías saber las intenciones</l>
+							<l>de un hombre o de una mujer, hasta que no los pruebes como</l>
+							<l>una acémila ni podrías juzgarlas como cuando estás ante un fruto</l>
+							<l>maduro, ya que las apariencias a menudo confunden nuestro
+								entendimiento.</l>
+						</lg>
+						<lg n="24">
+							<l>No pidas, Polipaides, ser sobresaliente ni en virtud ni en
+								riquezas:</l>
+							<l>una sola cosa puede contar para un hombre, la buena suerte.</l>
+						</lg>
+						<lg n="25">
+							<l>Nada hay mejor entre los hombres que un padre y una madre,</l>
+							<l>a quienes preocupa, Cirno, la sagrada justicia.</l>
+						</lg>
+						<lg n="26">
+							<l>Nadie, Cirno, es culpable de su ruina o de su prosperidad, sino</l>
+							<l>que los dioses son los dispensadores de ambas cosas; ninguna
+								persona</l>
+							<l>se afana en una empresa sabiendo en sus mientes si es, al</l>
+							<l>final, provechoso o perjudicial. Pues a menudo creyendo que va a</l>
+							<l>hacer un mal hizo un bien, y creyendo que va a hacer un bien hizo</l>
+							<l>un mal. A ningún hombre le sale bien cuanto desea; los límites de</l>
+							<l>la rígida imposibilidad lo detienen. Los hombres planeamos</l>
+							<l>en vano, pues no sabemos nada; mientras que los dioses</l>
+							<l>concluyen todo según su voluntad.</l>
+						</lg>
+						<lg n="27">
+							<l>Ninguno de los mortales, Polipaides, ha engañado nunca a</l>
+							<l>un huéspued o a un suplicante y ha pasado inadvetido</l>
+							<l>ante los inmortales.</l>
+						</lg>
+						<lg n="28">
+							<l>Prefiere vivir siendo piadoso con pocos bienes a ser rico</l>
+							<l>adquiriendo bienes de manera injusta. En suma, toda virtud</l>
+							<l>reside en la justicia, y todo hombre que sea justo,</l>
+							<l>es un hombre de bien, Cirno.</l>
+						</lg>
+						<lg n="29">
+							<l>Una divinidad otorga bienes también a un hombre perverso,</l>
+							<l>Cirno; pero el lote de la virtud sólo corresponde a unos </l>
+							<l>pocos hombres;</l>
+						</lg>
+					</div>
+					<div n="152">
+						<lg n="30">
+							<l>El desenfreno,Cirno, se lo concedió la divinidad en primer</l>
+							<l>lugar al hombre con el que no va a tener ninguna consideración.</l>
+						</lg>
+						<lg n="31">
+							<l>La hartura engendra el desenfreno, cuando la felicidad acompaña</l>
+							<l>a un malvado o aun hombre que no tenga una mente equilibrada.</l>
+						</lg>
+						<lg n="32">
+							<l>Cuando hayas estado irritado con un hombre, nunca me eches</l>
+							<l>en cara su pobreza que consume el corazón ni su funesta
+								indiferencia;</l>
+							<l>pues Zeus inclina la balanza unas veces hacia un lado, otras</l>
+							<l>hacia otro, unas veces para enriquecer, otras para no dar.</l>
+						</lg>
+						<lg n="33">
+							<l>Nunca pronuncies Cirno, una palabra jactanciosa, pues nadie</l>
+							<l>sabe lo que la noche y el día depararán a un hombre.</l>
+						</lg>
+						<lg n="34">
+							<l>Muchos, se valen de intenciones perversas y de un genio
+								favorable,</l>
+							<l>para quienes lo que parecer ser un mal se torna en un</l>
+							<l>bien; y hay otros que, con sabios consejos y con un genio
+								infausto,</l>
+							<l>sufren penalidades y el éxito no corona sus empresas.</l>
+						</lg>
+						<lg n="35">
+							<l>Nadie es rico ni pobre ni malo ni bueno</l>
+							<l>sin la ayuda de una divinidad.</l>
+						</lg>
+						<lg n="36">
+							<l>Cada cual tiene una desgracia distinta, y ningún hombre</l>
+							<l>a quien contempla el sol es completamente feliz.</l>
+						</lg>
+						<lg n="37">
+							<l>Mas aquel a quien los dioses favorecen, incluso el calumniador</l>
+							<l>lo alaba; mientras que el esfuerzo del hombre resulta vano.</l>
+						</lg>
+						<lg n="38">
+							<l>Ruega a los dioses; en los dioses reside el poder; sin los dioses</l>
+							<l>ciertamente no hay ni bienes ni males para los hombres.</l>
+						</lg>
+						<lg n="39">
+							<l>A un hombre de bien, la pobreza, por encima de todo lo somete,</l>
+							<l>más que la canosa vejez y la fiebre, Cirno; por huir de</l>
+							<l>la cual hay que arrojarse al mar de grandes monstruos, Cirno, o</l>
+							<l>desde lo alto de escarpadas rocas. Pues un hombre domeñado</l>
+							<l>por la pobreza no puede decir ni hacer nada: su lengua está
+								encadenada.</l>
+						</lg>
+						<lg n="40">
+							<l>Hay que buscar, Cirno, la liberación de la cruel pobreza lo</l>
+							<l>mismo sobre la tierra que sobre el ancho lomo del mar.</l>
+						</lg>
+						<lg n="41">
+							<l>Para un hombre pobre, Cirno, es mejor estar muerto que vivir</l>
+							<l>angustiado por la cruel pobreza.</l>
+						</lg>
+						<lg n="42">
+							<l>Buscamos, Cirno, carneros, asnos y caballos de buena raza,</l>
+							<l>y todo el mundo quiere que desciendan de pura sangre; pero un</l>
+							<l>hombre noble no siente escrúpulo de desposar a una villana, hija</l>
+							<l>de un villano, si le aporta muchas riquezas, ni una mujer desdeña</l>
+							<l>ser la esposa de un villano rico, sino que prefiere un acaudalado</l>
+							<l>antes que a un hombre de bien... Ciertamente, veneran las
+								riquezas;</l>
+							<l>el noble desposa a la hija del villano y el villano a la hija del</l>
+							<l>hombre de bien: el dinero ha mezclado las clases. Por tanto,</l>
+							<l>no te admires Polipaides, de que se debilite la raza de nuestros </l>
+							<l>ciudadanos: en efecto, lo bueno se mezcla con lo malo.</l>
+						</lg>
+						<lg n="43">
+							<l>Sabiendo él mismo que ella es de baja cuna, un hombre bien</l>
+							<l>considerado la conduce a su casa, a pesar de su mala reputación,</l>
+							<l>seducido por sus riquezas, ya que le predispone a ello la dura</l>
+							<l>necesidad, que torna atrevido el espíritu de un hombre.</l>
+						</lg>
+						<lg n="44">
+							<l>La riqueza que a un hombre le corresponde de parte de Zeus,</l>
+							<l>ganada con justicia y honradamente, es siempre duradera; mas si</l>
+							<l>un hombre, con ánimo codicioso, la adquiere ya injustamente y</l>
+							<l>de manera inoportuna, ya mediante juramento violando la justicia,</l>
+							<l>en seguida parece obtener una ganancia, pero al final</l>
+							<l>resulta una desgracia y prevalece la voluntad de los dioses. He</l>
+							<l>aquí, sin embargo, lo que engaña el endendimiento de los hombres:</l>
+							<l>los bienaventurados no castigan con la misma acción sus</l>
+							<l>faltas, sino que uno mismo pagó su mala acción y no dejó
+								suspendido</l>
+							<l>sobre sus hijos el infortunio para el futuro, mientras que</l>
+							<l>a otros no le alcanzó la justicia porque la muerte insaciable,</l>
+							<l>portadora de la fatalidad, se posó antes sobre sus párpados.</l>
+						</lg>
+					</div>
+					<div n="211">
+						<lg n="45">
+							<l>No hay amigo ni fiel compañero para el desterrado: esto es</l>
+							<l>aún más amargo que el destierro.</l>
+						</lg>
+						<lg n="46">
+							<l>Beber mucho vino es malo; pero si uno lo bebe con</l>
+							<l>conocimiento de causa, no es malo, sino bueno.</l>
+						</lg>
+						<lg n="47">
+							<l>Corazón, cambia según cada amigo tu voluble talante, </l>
+							<l>adaptando tu carácter al que cada uno tenga. Adopta el carácter
+								de</l>
+							<l>retorcido pulpo, que se muestra a la vista semeante a la roca</l>
+							<l>a la que está adherido. Ahora acomódate a esta, y luego sé de
+								diferente</l>
+							<l>color. La habilidad es mejor, cirtamente, que la intransigencia.</l>
+						</lg>
+						<lg n="48">
+							<l>No te angustie demasiado cuando los ciudadanos estén alborotatos,</l>
+							<l>Cirno, y marcha por el camino de en medio como yo.</l>
+						</lg>
+						<lg n="49">
+							<l>El que cree que el prójimo nada sabe, sino que él es el único</l>
+							<l>que posee variados ardides, ése es un insentato, carente de buen</l>
+							<l>sentido: en efecto, todos conocemos por igual los ardides; pero
+								uno</l>
+							<l>no quiere emprender deshonroso negocios, mientras que</l>
+							<l>a otro le agradan más las intrigas desleales.</l>
+						</lg>
+						<lg n="50">
+							<l>De la riqueza no hay límite prefijado para los hombres; pues</l>
+							<l>quienes de entre nosotros ahora tienen más medios de vida,</l>
+							<l>ansían el doble. ¿Quién podría saciarlos a todos? Las riquezas</l>
+							<l>son para los mortales motivo de locura, y de ella proviene la</l>
+							<l>ruina que, cuando Zeus la envía a los atormentados, ora</l>
+							<l>el uno ora el otro la padece.</l>
+						</lg>
+						<lg n="51">
+							<l>Un hombre de bien, que es acrópolis y fortaleza de un pueblo</l>
+							<l>insensato, Cirno, obtiene poca estimación.</l>
+						</lg>
+						<lg n="52">
+							<l>Nada nos afecta a nosotros como a hombres puestos a salvo,</l>
+							<l>sino como a una ciudad, Cirno, que va a ser enteramente tomada </l>
+							<l>al asalto.</l>
+						</lg>
+						<lg n="53">
+							<l>Yo te he dado alas, con las que, elevándote fácilmente, volarás</l>
+							<l>sobre el infinito mar y sobre toda la tierra: estrás presente</l>
+							<l>en todos los banquetes y festines, puesto en boca de muchos,</l>
+							<l>y con pequeños aulos de agudos tonos hermosos jóvenes</l>
+							<l>te cantarán bellos y melodiosos sones con buen orden. Y cuando</l>
+							<l>llegues a la morada de Hades de plañidos llena, en las entrañas
+								de</l>
+							<l>la oscura tierra, nunca, ni siquiera muerto, perderás tu</l>
+							<l>gloria, sino que permanecerás en el recuerdo de los hombres</l>
+							<l>con un hombre por siempre inmortal, Cirno, recorriendo la</l>
+							<l>tierra griega y las islas, pasando sobre la infértil llanura del
+								mar</l>
+							<l>en peces rica, sin montar a lomos de caballos: los hermosos dones</l>
+							<l>de las Musas coronadas de violetas de llevarán; y para </l>
+							<l>todo aquellos que los aprecian y para los venideros serás
+								igualmente</l>
+							<l>motivo de canto, mientras haya tierra y sol; pero yo no</l>
+							<l>encuentro en ti ni un poco de respeto, sino que, como a un niño</l>
+							<l>pequeño, me engañas con palabras.</l>
+						</lg>
+					</div>
+					<div n="255">
+						<lg n="54">
+							<l>Lo más hermoso es la justicia; lo más ventajoso tener salud;</l>
+							<l>lo más dulce, obtener lo que uno desea.</l>
+						</lg>
+						<lg n="55">
+							<l>Yo soy una yegua bonita y ganadora de mis premios, pero llevo</l>
+							<l>un pésimo jinete, y esto es para mí lo más penoso. Muchas veces</l>
+							<l>he estado ya a punto de huir, tras romper el bocado, precipitando</l>
+							<l>hacia delante al mal jinete.</l>
+						</lg>
+						<lg n="56">
+							<l>En mí ya no se bebe vino, pues en casa de la tierna niña lo</l>
+							<l>guarda otro hombre mucho más tosco que yo. Allí a lo sumo beben</l>
+							<l>agua fresca sus queridos padres, de suerte que con frecuencia</l>
+							<l>va a la fuente y me lleva gimiendo; entonces, tras ceñor mi brazo</l>
+							<l>al talle de la muchacha, beso su cuello, y ella musita suavemente</l>
+							<l>con su boca.</l>
+						</lg>
+						<lg n="57">
+							<l>La Pobresa es fácil de conocer, aunque sea ajena; pue no asiste</l>
+							<l>a la plaza pública ni a los procesos: en todos los sitios lleva
+								la</l>
+							<l>peor parte, en todos los sitios es escarnecida; y en todos los
+								sitios</l>
+							<l>en que esté, es igualmente odiosa.</l>
+						</lg>
+						<lg n="58">
+							<l>Los dioses dieron a los hombres las demás cosas por igual,</l>
+							<l>tanto la funesta vejez como la juventud, pero lo peor de todas</l>
+							<l>las cosas entre los hombres, más antiguo que la muerte y que</l>
+							<l>todas las enfermedades, es que después de que has criado a tus</l>
+							<l>hijos y les has procurado lo necesario, y tras sufrir muchas </l>
+							<l>penalidades le has acumulado riquezas, odien a su padre, deseen</l>
+							<l>que se muera y lo aborrezcan como a un mendigo que llama</l>
+							<l>a la puerta.</l>
+						</lg>
+						<lg n="59">
+							<l>Es natural que un hombre malvado practique mal la justicia,</l>
+							<l>sin temer luego ninguna venganza divina; pues a un</l>
+							<l>miserable mortal le es posible ejecutar a su paso muchas </l>
+							<l>acciones malvadas y creer que todo lo que hace es noble.</l>
+						</lg>
+						<lg n="60">
+							<l>No des un paso confiando en ninguno de nuestros conciudadanos,</l>
+							<l>no estés confiado en su juramiento ni en su afecto, ni aunque</l>
+							<l>quiera poner Zeus, el rey supremo de los inmortales, como</l>
+							<l>garante con la inteción de darte seguridad.</l>
+						</lg>
+						<lg n="61">
+							<l>En una ciudad tan maledicente nada es agradable; y en la</l>
+							<l>misma medida mucha gente siempre es desgraciada.</l>
+						</lg>
+						<lg n="62">
+							<l>Ahora las desgracias de los hombres de bien son una dicha</l>
+							<l>para los malvados: se alegran con leyes monstruosas; el pudor</l>
+							<l>ha desaparecido, mientras que la impudicia y la insolencia,</l>
+							<l>tras vencer a la justicia, dominan toda la tierra.</l>
+						</lg>
+						<lg n="63">
+							<l>No siempre come carne el león, sino que, por fuerte que sea,</l>
+							<l>le alcanza la impotencia.</l>
+						</lg>
+						<lg n="64">
+							<l>Para una persona gárrula callar es la carga más pesada, y cuando</l>
+							<l>habla, resulta molesta para los que están presentes y todos le
+								detestan;</l>
+							<l>pero en un banquete es inevitable el trato con un individuo así.</l>
+						</lg>
+						<lg n="65">
+							<l>Nadie quiere ser amigo cuando a un hombre le sucede una desgracia, </l>
+							<l>ni siquiera el que ha nacido, cirno, del mismo vientre que él.</l>
+						</lg>
+					</div>
+					<div n="301">
+						<lg n="66">
+							<l>Sé amargo y dulce, amable y cruel con tus criados, servidores</l>
+							<l>y vecinos que viven a tu puerta.</l>
+						</lg>
+						<lg n="67">
+							<l>No hay que cambiar una vida honrada, sino dejarla tranquila,</l>
+							<l>y, en cambio, una depravada hay que corregirla hasta que </l>
+							<l>alcance el camino recto.</l>
+						</lg>
+						<lg n="68">
+							<l>Los malvados no han nacido completamente malvados desde</l>
+							<l>el vientre materno, sino que al trabar amistad con hombres
+								malvados</l>
+							<l>aprendieron sus malas artes, sus expresiones groseras y su</l>
+							<l>insolencia, por creer que aquellos decían toda la verdad.</l>
+						</lg>
+						<lg n="69">
+							<l>Entre los comensales hay que ser un hombre sensato, y que</l>
+							<l>parezca que todo le pasa inadvertido como si estuviera ausente,</l>
+							<l>y aporte historias chistosas; mas ya en la puerta quédes</l>
+							<l>serio, cuando ya conoce el carácter que cada uno tiene.</l>
+						</lg>
+						<lg n="70">
+							<l>Entre los locos me hago loco del todo, pero entre los justos</l>
+							<l>soy el más justo de todos los hombres.</l>
+						</lg>
+						<lg n="71">
+							<l>Muchos malvados son ricos, mientras que los hombres de bien</l>
+							<l>son pobres; pero nosotros no cambiaremos con ellos el dinero por</l>
+							<l>la virtud, ya que ésta es siempre inmutable, mientras que las
+								riquezas</l>
+							<l>de los hombres unas veces las posee uno y otras otro.</l>
+						</lg>
+						<lg n="72">
+							<l>Cirno, un hombre de bien tiene siempre una opinión inmutable</l>
+							<l>y es valiente tanto cuando depende de la desgracia como de la
+								fortuna:</l>
+							<l>pero si un dios concede medios de vida y dinero a</l>
+							<l>un malvado, al ser éste un insensato, no puede dominar su maldad.</l>
+						</lg>
+						<lg n="73">
+							<l>Nunca pierdas un amigo por un pequeño pretexto, seducido</l>
+							<l>por una malévola calumnia, Cirno. Si uno se encolerizase a cada</l>
+							<l>momento con las faltas de los amigos, hamás estarían bien
+								avenidos</l>
+							<l>los unos con los otros ni serían amigos; pues los mortales</l>
+							<l>siempre tendrán faltas, Cirno; los dioses, en cambio, no quieren
+								tolerarlas.</l>
+						</lg>
+						<lg n="74">
+							<l>Un hombre tranquilo y prudente puede alcanzar a otro apresurado,</l>
+							<l>si lo persigue, Cirno, con la recta justicia de los inmortales.</l>
+						</lg>
+						<lg n="75">
+							<l>Tranquilo como yo recorre con tus pies el camino de en medio</l>
+							<l>y sin dar a unos, Cirno, lo que es de otros.</l>
+						</lg>
+						<lg n="76">
+							<l>No hay amigo ni fiel compañero para el desterrado: esto es </l>
+							<l>lo más amargo del destierro.</l>
+						</lg>
+						<lg n="77">
+							<l>Nunca te hagas amigo de un desterrado con alguna esperanza,</l>
+							<l>Ciirno; pues cuando regresa a su casa, ya no es el mismo.</l>
+						</lg>
+						<lg n="78">
+							<l>Nada te inquiete en exceso: una justa medida es lo mejor de todo;</l>
+							<l>y así, Cirno, alcanzarás la virtud, que es díficil de conseguir,</l>
+						</lg>
+						<lg n="79">
+							<l>Zeus me conceda vengar a los amigos que me quieren, Cirno,</l>
+							<l>y tener un poder mayor que el de mis enemigos. Y así creería ser</l>
+							<l>un dios entre los hombres, si esl destino de la muerte me llega
+								después</l>
+							<l>de haber alcanzado venganza.</l>
+						</lg>
+						<lg n="80">
+							<l>Cúmpleme, Zeus del Olimpo, mi ruego oportuno; concédeme,</l>
+							<l>a cambio de males, disfrutar también algún bien: quisiera</l>
+							<l>morirme si no hallo un alivio a mis preocupaciones y no ocasiono</l>
+							<l>perjuicios a cambio de perjuicios. Tal es, pues, mi destino y no</l>
+							<l>se nos muestra el castigo de los individuos que mis bienes
+								retienen</l>
+							<l>tras haberlos arrebatado por la fuerza; y yo como un perro he </l>
+							<l>vadeado el barranco tras haberlo perdido todo en la corriente</l>
+							<l>torrencial. Séame dado beber su negra sangre, y venga en mi ayuda</l>
+							<l>un dios favorable que dé cumplimiento a tal cosa según</l>
+							<l>mi deseo.</l>
+						</lg>
+					</div>
+					<div n=" 351">
+						<lg n="81">
+							<l>Ah mezquina Pobreza, ¿por qué te quedas conmigo y dejas de</l>
+							<l>irte junto a otro hombre? No me ames sin quererlo yo, sino vete</l>
+							<l>y frecuenta otra casa y no participes siempre a mi lado</l>
+							<l>de esta vida desdichada.</l>
+						</lg>
+						<lg n="82">
+							<l>Sé valiente, Cirno, en la desgracia, ya que también te
+								regocijaste</l>
+							<l>en la fortuna, cuand el destino te concedió poseerla; como</l>
+							<l>después de los bienes has recibido la desgracia, así también
+								ahora</l>
+							<l>procura salir de ésta imporando a los dioses. Y no la exhibas
+								demasiado;</l>
+							<l>es malo exhibirla, Cirno: tienes pocos valedores</l>
+							<l>de tu indigencia.</l>
+						</lg>
+						<lg n="83">
+							<l>El corazón de un hombre que sugre una gran pena, se consume,</l>
+							<l>Cirno; pero cuando alcanza la venganza, se agrande de nuevo.</l>
+						</lg>
+						<lg n="84">
+							<l>Adula bien a tu enemigo; y cuando esté al alcance de tu mano,</l>
+							<l>castígale sin poner ningún pretexto.</l>
+						</lg>
+						<lg n="85">
+							<l>Mantente en tu juicio, mas quede la dulzura en tu lengua; el</l>
+							<l>corazón de los depravados es más irritable.</l>
+						</lg>
+						<lg n="86">
+							<l>No puedo comprender el sentir que tienen mis conciudadanos</l>
+							<l>pues ni obrando bien ni obrando mal les soy agradable Muchos</l>
+							<l>me hacen reproches, de igual modo malos y buenos; pero</l>
+							<l>ninguno de estos necios puede imitarme.</l>
+						</lg>
+						<lg n="87">
+							<l>No me unzas al carro obligado, aquijoneándome a la fuerza,</l>
+							<l>arrastrándome, Cirno, en exceso al afecto.</l>
+						</lg>
+						<lg n="88">
+							<l>Zeus querido, me asombras: pues tú eres soberano de todos,</l>
+							<l>poseyendo tú slo gloria y gran poder, conoces bien el pensamiento</l>
+							<l>y el ánimo de cada uno de los hombres y poder, rey, es</l>
+							<l>el más excelso de todos ¿Cómo entonces, Crónida, tolera tu
+								voluntad</l>
+							<l>que unos hombres malvados y el justo tengan un mismo</l>
+							<l>destino, tanto si se complace en la prudencia como si lo hace en</l>
+							<l>la desmesura la mente de los hombres, persuadidos por acciones</l>
+							<l>injustas? ¿Nada hay determinado para los mortales por </l>
+							<l>parte de la divinidad, ni siquiera el camino que se debe seguir</l>
+							<l>para agradar a los inmortales?</l>
+						</lg>
+						<lg n="89">
+							<l>no obstante, mantienen una prosperidad sin mengua; otros,</l>
+							<l>apartando su corazón de viles acciones, aunque aman la justicia,</l>
+							<l>obtienen, con todo, pobreza, madre de la impotencia, que desvía</l>
+							<l>el ánimo de los hombres hacia el erros, corromiendo los
+								sentimientos</l>
+							<l>en su pecho bajo una imperiosa necesidad; sin quererlo,</l>
+							<l>se resigna a soportar muchos ultrajes, sucumbiendo ante la
+								indigenia,</l>
+							<l>que enseña muchas desgracias, mentiras, fraudes y funestas</l>
+							<l>discordias, incluso al hombre que no lo desea, y ninguna</l>
+							<l>calamidad se le parece; pues aquella también engendra ña</l>
+							<l>amarga impotencia. En la pobreza se revela el hombre vil y el</l>
+							<l>que es mucho mejor, cuando los tiene en su poder la indigencia;</l>
+							<l>pues el talante del uno proyecta cosas justas, de aquel que en su</l>
+							<l>pecho siempre está enraizado un pensamiento recto, mientras</l>
+							<l>que el talante del otro no se somete ni a la mala ni a la buena</l>
+							<l>fortuna. Es preciso que el hombre de bien tenga valor para</l>
+							<l>sobrellevar esto y quello, que respete a los amigos y huya de</l>
+							<l>juramentos que pierden al hombre, vergonzosos, evitando</l>
+							<l>la cólera de los inmortales.</l>
+						</lg>
+					</div>
+					<div n="401">
+						<lg n="90">
+							<l>Nada te inquiete en exceso: la oportunidad es lo mejor en todas</l>
+							<l>las acciones de los hombres. Muchas veces un hombre, tratando</l>
+							<l>de obtener provecho, busca con ahínco el prestigio y a</l>
+							<l>aquel una divinidad favorable lo induce a un gran error y le hace</l>
+							<l>creer a la ligera que aquello que es malo, es bueno, y que
+								aquello</l>
+							<l>que es útil, es malo.</l>
+						</lg>
+						<lg n="91">
+							<l>Tú, aunque me eres muy querido, te has equivocado; pero yo</l>
+							<l>no soy en absoluto responsable, sino tú mismo que no tuvista</l>
+							<l>una buena ideaa.</l>
+						</lg>
+						<lg n="92">
+							<l>Ningún tesoro dejarás a tus hijos, Cirno, mejor que el respeto,</l>
+							<l>que acompaña a los hombres de bien.</l>
+						</lg>
+						<lg n="93">
+							<l>A ningún hombre parece ser inferior un compañero en el que</l>
+							<l>convienen inteligencia y poder, Cirno.</l>
+						</lg>
+						<lg n="94">
+							<l>Cuando beba, no me emborracharé de tal manera - el vino</l>
+							<l>no me enajena - que diga sobre ti una palabra vehemente.</l>
+						</lg>
+						<lg n="95">
+							<l>Aunque lo busco con ahínco, no puedo encontrar un compañero</l>
+							<l>fiel semejante a mí, en el que no sea posible el engaño;</l>
+							<l>acercándome a la pierdra de toque, me froto con ella como el oro con
+								el</l>
+							<l>plomo, y en mí está presente la convicción de una superioridad.</l>
+						</lg>
+						<lg n="96">
+							<l>Muchas cosas se me escapan, aunque las comprendo; pero por</l>
+							<l>fuerza callo, consciente de mi capacidad.</l>
+						</lg>
+						<lg n="97">
+							<l>Para muchos hombres las puertas no cierran bien ajustadas</l>
+							<l>en su lengua, y se ocupan de muchas cosas que carecen de interés;</l>
+							<l>pues con frecuencia es mejor que quede dentro lo malo</l>
+							<l>y conveniente que salga lo bueno más que lo malo.</l>
+						</lg>
+						<lg n="98">
+							<l>De todas las cosas la mejor para los humanos es no haber nacido</l>
+							<l>ni llegar a ver los rayos del ardiente sol, y una vez nacido,</l>
+							<l>cruzar cuanto antes las puertas del Hades y yacer tumbado bajo</l>
+							<l>un montón de tierra.</l>
+						</lg>
+						<lg n="99">
+							<l>Engendrar y criar a un hombre es más fácil que inculcarle</l>
+							<l>sentimientos nobles; pues nadie ha ideado aún aquello,</l>
+							<l>gracias a lo cual convierta en cuerdo al insensato y en bueno al</l>
+							<l>malvado. Si un dios hubiese concedido esto a los Asclepíadas,</l>
+							<l>el curar la maldad. los sentimientos perversos de los hombres,</l>
+							<l>muchas y grandes ganancias habrían obtenido. Si la mentalidad</l>
+							<l>fuese para un hombre algo factible e inculcable, jamás hubiera </l>
+							<l>salido un mal hijo de un buen padre, persuadido por virtuosas
+								palabras;</l>
+							<l>pero por instruirlo jamás harás de un villano un hombre de bien.</l>
+						</lg>
+						<lg n="100">
+							<l>Necio el que presta atencón a mi pensamiento y no</l>
+							<l>se cuida de sus propios asuntos.</l>
+						</lg>
+						<lg n="101">
+							<l>En efecto, no hay nadie completamente feliz; pero el noble</l>
+							<l>es valiente cuando sufre un infortunio y no lo manifiesta</l>
+							<l>al mismo tiempo; mientras que el villano no sabe mantenerse co</l>
+							<l>ánimo ni en la fortuna ni en la desgracia. Los dones de los
+								inmortales</l>
+							<l>que sobrevienen a los mortales son variados; pero hay</l>
+							<l>que tener valor para aceptar los regalos de los inmorales</l>
+							<l>tal cual los otorgan.</l>
+						</lg>
+						<lg n="102">
+							<l>Si quieres lavarme, desde lo alto de mi cabeza siempre correrá</l>
+							<l>el agua clara, y en todas mis acciones me encontrarás como el oro</l>
+							<l>puro, que se ve rojo al ser frotado con la piedra de toque</l>
+							<l>y cuya superficie no atacan el negro orín ni el moho y conserva</l>
+							<l>siempre su genuino esplendor.</l>
+						</lg>
+					</div>
+					<div n="453">
+						<lg n="103">
+							<l>Amigo, si por el destino hubieras recibido tanta porción de</l>
+							<l>conocimiento como de insensatez y fueras tan cuerdo como</l>
+							<l>insensato, serías considerado por muchos de nuestras
+								conciudadanos</l>
+							<l>tan envidiable como ahora eres digno de nada.</l>
+						</lg>
+						<lg n="104">
+							<l>Una mujer joven no es ciertamente apropiada para un hombre</l>
+							<l>viejo; pues no obedece al timón como una barca ni la retienen</l>
+							<l>las anclas; antes bien, a menudo tras romper los cabos, gana otro</l>
+							<l>puerto de noche.</l>
+						</lg>
+						<lg n="105">
+							<l>Nunca pongas tu atención en cosas irrealizables ni desees</l>
+							<l>ardientemente las riquezas: en estas cosas no hay ninguna
+								ventaja.</l>
+						</lg>
+						<lg n="106">
+							<l>Los dioses no conceden ninguna cosa a la ligera, ni una</l>
+							<l>despreciable ni una buena; la gloria está en empresas difíciles.</l>
+						</lg>
+						<lg n="107">
+							<l>Ejercítate en la virtud, que la justicia te sea amada y no que te</l>
+							<l>venza el deseo de ganancia, que es indecente.</l>
+						</lg>
+						<lg n="108">
+							<l>A ninguno de éstos obliques a permanecer con nosotros</l>
+							<l>contra su voluntad, ni invites a marcharse a la clle. quien no</l>
+							<l>quiere irse; ni despiertes, Simónides, a quien de nosotros duerma</l>
+							<l>si embriagado por el vino, un dulce sueño se ha apoderado</l>
+							<l>de él, ni invites a dormir contra su volutnad al que está</l>
+							<l>desvelado; pues toda cosa obligatoria resulta enojosa. Al que</l>
+							<l>quiera beber, que uno le escancie vino a su vera: no todas las</l>
+							<l>noches es posible disfrutar de placer. Yo, por mi arte, puesto</l>
+							<l>que guardo mesura en el vino duelce como la miel, yéndome</l>
+							<l>a casa, atenderé al sueño que libra de las penas. Llegaré como</l>
+							<l>el vino resulta más agrable para el hombre haberlo bebido:</l>
+							<l>sin abstenerme del todo ni emborrachándome en exceso. El</l>
+							<l>que sobrepase la mesura en la bebida, ése ya no será dueño de</l>
+							<l>su lengua ni de su vluntad, pronunciará palabras impertinentes</l>
+							<l>que son indecentes para los sobrios, y no sentirá</l>
+							<l>sensato antes, necio ahora. Pero tú, consciente de estas cosas,</l>
+							<l>no bebas vino exageradamente, sino levántate antes de </l>
+							<l>emborracharte - que no te domine tu vientre como a un mal </l>
+							<l>jornalero - o si te quedas, no bebas. Tú, en cambio, siempre
+								repites</l>
+							<l>esta necia palabra: "escancia"; por eso estás, borracho, pues</l>
+							<l>una copa es ofrecida por la amistad, otra está dispuesta, otra</l>
+							<l>la derramas en honor de los dioses, otra la tienes ya en tu mano</l>
+							<l>y no sabes negarte. En verdad es invencble aquel que,</l>
+							<l>aunque beba muchas copas, no dirá una necedad. Y vosotros</l>
+							<l>conversad a gusto permaneciento junto a la cratera, </l>
+							<l>absteniéndoos durante largo tiempo de la mutua discordia,
+								hablando</l>
+							<l>en el centro, a cada uno y a todos a un tiempo; así es como</l>
+							<l>un banquete resulta agradable.</l>
+						</lg>
+						<lg n="109">
+							<l>El vino convierte en irreflexiva la mente del hombre insensato</l>
+							<l>y del cuerpo por igual, cuando bebe por encima de la justa
+								medida.</l>
+						</lg>
+						<lg n="110">
+							<l>En el fuego reconocen el oro y la plata los peritos, mas el vino</l>
+							<l>demuestra el carácter del hombre, aunque sea muy prudente,</l>
+							<l>y lo excita cuando bebe por encima de la justa medida, hasta</l>
+							<l>el punto de avergonzar al que antes era sabio.</l>
+						</lg>
+					</div>
+					<div n="503">
+						<lg n="111">
+							<l>Tengo la cabeza aturdida por el vino, Onomácrito, y me violenta</l>
+							<l>el vino; además, yo ya no soy dueño de mi voluntad y la casa</l>
+							<l>me da vueltas. Ea, una vez que me levante haré la prueba no sea</l>
+							<l>que el vino se haya adueñado de mis pies y de mi mente en el
+								pecho;</l>
+							<l>temo que, embriagado, vaya a cometer alguna estupidez y </l>
+							<l>sufra una gran verguenza.</l>
+						</lg>
+						<lg n="112">
+							<l>Bebido en abundancia el vino es malo; pero si uno lo bebe</l>
+							<l>con conocimiento de causa, no es malo sino bueno.</l>
+						</lg>
+						<lg n="113">
+							<l>Así pues, llegaste aquí, Clearisto, tras cruzar el profundo mar,</l>
+							<l>ante mí que nada tengo, tú que, desdichado, nada tienes; te daré</l>
+							<l>lo mejor de lo que poseo; y si llega alguno que sea amigo tuyo,</l>
+							<l>toma asiento según el grado de amistad que tengas. No me
+								reservaré</l>
+							<l>nada de lo que poseo ni tomaré prestado nada mejor de otra</l>
+							<l>parte para tu hospedaje. En los costados de tu nave, bajo los</l>
+							<l>bancos de los remeros yo colocaré, Clearisto, las cosas que poseo
+								y</l>
+							<l>que los dioses conceden. Y si alguien te pregunta por mi vida,</l>
+							<l>dile así: "para el que vive bien, vive con dificultad, mas para el
+								que</l>
+							<l>vive con dificultad, vive muy bien, de manera que no</l>
+							<l>puede abandonar a un huésped familiar, pero no dar hospitalidad</l>
+							<l>a muchos."</l>
+						</lg>
+						<lg n="114">
+							<l>No en vano, oh Pluto, te honran los mortales sobre manera;</l>
+							<l>pues sobrellevas la maldad de buen grado. Y por consiguiente, es</l>
+							<l>natural que los hombres de bien posean riquezas, mientras que la</l>
+							<l>pobreza es legítimo procurársela a un malvado.</l>
+						</lg>
+						<lg n="115">
+							<l>¡Ay de mí, por mi juventud y funesta vejez! De la una, porque se </l>
+							<l>acerca; de la otra, porque se aleja.</l>
+						</lg>
+						<lg n="116">
+							<l>No he traicionado a ningún querido y fiel amigo, y no hay en mi </l>
+							<l>alma nada propio de un esclavo.</l>
+						</lg>
+						<lg n="117">
+							<l>Mi corazón se me regocija siempre que escucho el delicioso</l>
+							<l>sonido de los sonoros aulos; me regocijo al beber a gusto y
+								cantar</l>
+							<l>al son del auletista, y me recogijo al tener en mis manos la</l>
+							<l>armoniosa lira.</l>
+						</lg>
+						<lg n="118">
+							<l>Nuesta está erguida la cabeza de une sclavo, sino siempre</l>
+							<l>inclinada y tiene su cuello torcido. Pues ni una rosa ni un</l>
+							<l>jacinto nacen de una escila, ni tampoco de una esclava un hijo
+								libre.</l>
+						</lg>
+						<lg n="119">
+							<l>Ese hombre, querido Cirno, se forja grilletes para sí mismo,</l>
+							<l>si es que los dioses no burlan mi entendimiento.</l>
+						</lg>
+						<lg n="120">
+							<l>Tengo miedo de que la desmesura, que perdó a los centauros</l>
+							<l>devoradores de carne cruda, haya perdido a esta ciudad,
+								Polipaides.</l>
+						</lg>
+						<lg n="121">
+							<l>Es preciso,Cirno, que yo juzque este asunto con el cordel y la</l>
+							<l>escuadra, y ortogue a ambos lo justo, con la ayudo de adivinos,</l>
+							<l>augurios y víctimas incineradas, a fin de que no sufra</l>
+							<l>el vergonzoso deshonor de la culpa.</l>
+						</lg>
+						<lg n="122">
+							<l>No hagas violencia a nadie con maldad, sino con justicia:</l>
+							<l>nada e smejor que la acción recta.</l>
+						</lg>
+						<lg n="123">
+							<l>Un mensajero mudo, Cirno, suscita la guerra que causa</l>
+							<l>muchas lágrimas, brillando desde un lejano promontorio. Coloca</l>
+							<l>el freno en los caballos de rápidos remos; pues yo creo que</l>
+							<l>ellos van a salir al encuentro de los enemigos; no es mucha la
+								distancia;</l>
+							<l>recorrerán el camino, es que los dioses no burlan mi
+								entendimiento.</l>
+						</lg>
+					</div>
+					<div n="555">
+						<lg n="124">
+							<l>Es preciso que un hombre que se encuentra en medio de duros</l>
+							<l>sufrimientos, sea valiente y pida a los dioses inmortales la</l>
+							<l>liberación de ellos. Medita, pues: la suerte está situada en el filo
+								de</l>
+							<l>la navaja: unas veces tendrás muchos bienes, otras veces menos,</l>
+							<l>de modo que tú no serás excesivamente rico en posesiones ni irás</l>
+							<l>a parar a una extrema indigencia.</l>
+						</lg>
+						<lg n="125">
+							<l>Ojalá me fuera posible poseer algunas de las riquezas de mis</l>
+							<l>enemigos y dar la mayor parte de ellas a mis amigos.</l>
+						</lg>
+						<lg n="126">
+							<l>Es beneficioso ser invitado a un banquete y sentarse junto a</l>
+							<l>un hombre de mérito, que conoce toda clase de sabiduría.
+								Escúchalo,</l>
+							<l>cuando diga algo sabio, para que lo aprendas y regreses a </l>
+							<l>casa con esa ganancia.</l>
+						</lg>
+						<lg n="127">
+							<l>Me divierto gozando de la juventud; pues por largo tiempo</l>
+							<l>yaceré debajo de la tierra, como una piedra muda, una vez que</l>
+							<l>haya perdido la vida, y abandonaré la amada luz del sol; y
+								aunque</l>
+							<l>sea distinguido, ninguna cosa veré ya.</l>
+						</lg>
+						<lg n="128">
+							<l>La reputación es un gran mal para los hombres, y la prueba es</l>
+							<l>lo mejor; muchos, que no han dado prueba de nada, tienen
+								reputación</l>
+							<l>de buenos.</l>
+						</lg>
+						<lg n="129">
+							<l>Haciendo el bien, el bien recibe: ¿por qué vas a enviar otro
+								mensajero? </l>
+							<l>El mensaje de la acción es recta fácil.</l>
+						</lg>
+						<lg n="130">
+							<l>Son mis amigos quienes me traicionan, ya que rehuyo al enemigo</l>
+							<l>como un piloto los escollos marinos.</l>
+						</lg>
+						<lg n="131">
+							<l>"Es más fácil convertir en malo a un hombre bueno que en bueno a uno
+								malo".</l>
+							<l>- No me des lecciones: ya no</l>
+							<l>estoy en edad de aprender.</l>
+						</lg>
+						<lg n="132">
+							<l>Odio al mal hombre y vengo cubierta con un velo, con el</l>
+							<l>cerebro vacío ede un pequeño pájaro; odio a la mujer corretona</l>
+							<l>y al hombre lujurioso, que quiere arar un campo ajeno.</l>
+						</lg>
+						<lg n="133">
+							<l>Ciertas cosas han sucedido y es imposible que sean anuladas:</l>
+							<l>en cuanto a las que están por llegar, de ésas hay que cuidarse.</l>
+						</lg>
+						<lg n="134">
+							<l>En todas las acciones hay peligro y nadie sabe, cuando una</l>
+							<l>empresa comienza, cómo va a acabar: el que procura tener buena</l>
+							<l>estima, al no calcular bien, cae en un grande y terrible
+								infortunio;</l>
+							<l>mientras que al que obra mal, la divinidad le concede en todo</l>
+							<l>fausto suceso, la liberación de su insensatez.</l>
+						</lg>
+						<lg n="135">
+							<l>Es necesario que afrontes con valentía aquello que los dioses</l>
+							<l>dan a los mortales y que sobrelleves de buen grado tu porción de</l>
+							<l>ambas fortunas, no apenes en exceso tu corazón por la desgracia</l>
+							<l>ni te alegres de repente por la fortuna antes de ver al desenlance
+								final.</l>
+						</lg>
+						<lg n="136">
+							<l>Amigo, seamos compañeros el uno del tro desde lejos: hay</l>
+							<l>hartura de cualqueir cosa, salvo del dinero. Seamos amigos
+								durante</l>
+							<l>mucho tiempo; pero ten trato también con otros hombres</l>
+							<l>que conocen mejor tu manera de pensar.</l>
+						</lg>
+						<lg n="137">
+							<l>No me pasaste desapercibido al ir y venir por la carrera, por</l>
+							<l>la que, efectivamente, antes te dirigías, traicionando mi
+								amistad.</l>
+							<l>Vete en mala hora, enemigo de los dioses y traidos a los</l>
+							<l>hombres, que tienes en tu regazo una fría serptiente moteada.</l>
+						</lg>
+					</div>
+					<div n=" 602">
+						<lg n="138">
+							<l>Estos sucesos y el desengreno, que ahora invaden esta ciudad</l>
+							<l>sagrada, perdieron también a los magnesios.</l>
+						</lg>
+						<lg n="139">
+							<l>El hartazgo ha acabado ya con mchos más hombres que el hambre,</l>
+							<l>pues ellos querían tener más de lo debido.</l>
+						</lg>
+						<lg n="140">
+							<l>En un principio, el placer de la mentira es pequeño; pero al</l>
+							<l>final esa ganancia resuelta, a la vez vergonzosa y perjudicial,
+								nada</l>
+							<l>de noble tiene un hombre al que acompaña la mentira y esta es lo</l>
+							<l>primero que sale de su boca.</l>
+						</lg>
+						<lg n="141">
+							<l>No es díficil censurar al prójimo ni tampoco alabarlo: estas</l>
+							<l>cosas interesan a los hombres viles. Los malvados no está
+								dispuestos</l>
+							<l>a callar, murmurando bajezas, en cambio, los hombres de</l>
+							<l>bien saben guardar la medida de todas las cosas.</l>
+						</lg>
+						<lg n="142">
+							<l>De los hombres de hoy el sol no contempla a ninguno</l>
+							<l>completamento bueno y mesurado.</l>
+						</lg>
+						<lg n="143">
+							<l>No todos los deseos se les cumplen a los hombres; pues</l>
+							<l>los inmortales son mucho más poderosos que los mortales.</l>
+						</lg>
+						<lg n="144">
+							<l>Afligido en mi corazón doy vueltas y vueltas en medio de las</l>
+							<l>dificultades; pues no hemos remontado la cima de la pobreza.</l>
+							<l>Todo el mundo aprecia al rico y desprecia al pobre; todos</l>
+							<l>los hombres tienen la misma conducta.</l>
+						</lg>
+						<lg n="145">
+							<l>Toda clase de perseveridades hay entre los hombres, así como</l>
+							<l>toda clase de virtudes y destrezas para ganarse la vida.</l>
+						</lg>
+						<lg n="146">
+							<l>Es complicado que un hombre inteligente hable mucho ante</l>
+							<l>los tontos y también que calle siempre: esto no es posible.</l>
+						</lg>
+						<lg n="147">
+							<l>Es vergonzoso que un hombre ebrio esté entre hombres</l>
+							<l>sobrios, y es vergonzoso si un hombre sobrio permanece entre
+								ebrios.</l>
+						</lg>
+						<lg n="148">
+							<l>La juventud y la ligereza disiplan la mente del hombre</l>
+							<l>y arrastran el corazón de muchos al erros.</l>
+						</lg>
+						<lg n="149">
+							<l>Aquel para quien su mente no es más fuerte que su corazón,</l>
+							<l>Cirno, siempre está en la desgracia y en grandes dificultades.</l>
+						</lg>
+						<lg n="150">
+							<l>Medita dos y tres veces lo que se te venga a la mente; pues un</l>
+							<l>hombre impetuoso resulta funesto.</l>
+						</lg>
+						<lg n="151">
+							<l>A los hombres de bien les siguen la inteligencia y el pudor;</l>
+							<l>ellos ahora son ciertamente pocos entre muchos.</l>
+						</lg>
+						<lg n="152">
+							<l>La esperanza y el riesgo son semejantes a ojos de los hombres;</l>
+							<l>pues ambos son genios incómodos.</l>
+						</lg>
+						<lg n="153">
+							<l>A menudo sucede que contra la apariencia y la esperanza</l>
+							<l>marchan bien las empresas de los hombres, pero no hay éxito</l>
+							<l>para sus planes.</l>
+						</lg>
+						<lg n="154">
+							<l>No podrías reconocer al amigo ni al enemigo, a noser </l>
+							<l>que te encontraras ante un asunto serio. Muchos son nuestros</l>
+							<l>compañeros junto a la cratera, mas pocos en un asunto serio.</l>
+						</lg>
+						<lg n="155">
+							<l>Pocos compañeros fieles que velen por ti hallarías cuando
+								tuvieses</l>
+							<l>tu ánimo en una gran dificultad. </l>
+						</lg>
+						<lg n="156">
+							<l>Ahora, ciertamente, ha desaparecido el pudor de entre los</l>
+							<l>hombres, mientras que la impudicia recorre la tierra.</l>
+						</lg>
+						<lg n="157">
+							<l>Miserable Pobreza, ¿por qué, pesandosobre mis hombros,</l>
+							<l>deshonras mi cuertpo y mi espíritu? Sin quererlo yo,</l>
+							<l>a la fuerza, me enseñas muchas desverguenzas, a mí que de entre
+								los</l>
+							<l>hombres conozco lo bueno y lo malo.</l>
+						</lg>
+					</div>
+					<div n="653">
+						<lg n="158">
+							<l>Sea yo afortunado y amado por los dioses inmortales, Cirno;</l>
+							<l>ninguna otra virtud deseo.</l>
+						</lg>
+						<lg n="159">
+							<l>Todos nos entristecemos contigo, Cirno, cuando sufres</l>
+							<l>alguna desgracia; pero la tristeza ajena es efímera.</l>
+						</lg>
+						<lg n="160">
+							<l>No aflijas en exceso tu corazón en las dificultades ni te
+								recogijes</l>
+							<l>en la fortuna, ya que es propio de un hombre de bien</l>
+							<l>sobrellevarlo todo. No hay que jurar auello de que "jamás sucerá
+								tal</l>
+							<l>cosa"; pues los dioses, en quienes reside el cumplimiento de las</l>
+							<l>cosas, se irritan. Y en verdad hacen cualquier cosa: de un malvado
+								nace</l>
+							<l>un noble y de un hombre de bien un malvado; el</l>
+							<l>hombre pobre de repente se enriquece mucho y el que posee</l>
+							<l>abundantes bienes súbitamente se arruina en una sola noche; también
+								el</l>
+							<l>sensato se equivoca y al insensato a menudo le acompaña la fama,</l>
+							<l>e incluso siendo malvado alcanza un puesto de honor.</l>
+						</lg>
+						<lg n="161">
+							<l>Si yo tuviera, Simónides, riquezas como las de antaño, no</l>
+							<l>me artibularía cuando frecuento a los hombres de bien Pero</l>
+							<l>ahora pasan de largo junto a mí, que los conozco, y estoy mudo</l>
+							<l>por la indigencia, aunque podría darme cuenta mejor que</l>
+							<l>muchos de la razón por la que ahora somos arrastrafos, con</l>
+							<l>las blancas velas abatidas, fuera del mar Melio, a través de la</l>
+							<l>sombría noche; no quieren achicar al agua y el mar salta por</l>
+							<l>encima de ambas bordas; muy difícilmente puede uno salvarse,</l>
+							<l>según actúan: han destituiddo al piloto experto, que
+								diestramente</l>
+							<l>mantenía el rumbo; saquean los bienes con violencia, el orden</l>
+							<l>ha desaparecido y ya no hay un reparto equitativo en público;</l>
+							<l>mandan los cargadores y los malvados están por encima</l>
+							<l>de los hombres de bien. Temo que una ola se trague la nave.</l>
+						</lg>
+						<lg n="162">
+							<l>Queden dichos por mí estos oscuros enigmas para los</l>
+							<l>hombres de bien; pero incluso un malvado los comprendería, si</l>
+							<l>fuera inteligente.</l>
+						</lg>
+						<lg n="163">
+							<l>Muchos ignorantes tienen riqueza; mientras que otros, apremiados</l>
+							<l>por la cruel pobreza, aspiran a la virtud. Mas la imposibilidad</l>
+							<l>de obrar subyace en unos y otros; pues a unos se lo impiden</l>
+							<l>las riquezas y a otros la inteligencia.</l>
+						</lg>
+						<lg n="164">
+							<l>No es posible a los mortales luchar contra los inmortales ni</l>
+							<l>juzgarlos: a nadie le es esto lícito.</l>
+						</lg>
+						<lg n="165">
+							<l>No hay que hacer daño cuando no es momento de hacer</l>
+							<l>daño, ni hacer lo que no es mejor llevar a término.</l>
+						</lg>
+						<lg n="166">
+							<l>Ojalá, contento, acabes bien el viaje a través del inmenso mar,</l>
+							<l>y que Posidón te guíe para alegría de tus amigos.</l>
+						</lg>
+						<lg n="167">
+							<l>El hartazgo ha perdido a muchos hombres insensatos; pues es</l>
+							<l>difícil guardar mesura, cuando los bienes de fortuna están al
+								alcance.</l>
+						</lg>
+						<lg n="168">
+							<l>No puedo, corazón mío, poner a tu disposición todo lo que te</l>
+							<l>es grato; aguanta: no estás enamorado tú solo de las cosas
+								bellas.</l>
+						</lg>
+						<lg n="169">
+							<l>Cuando yo estoy bien, son muchos los amigos; pero si</l>
+							<l>me ocurre alguna desgracia, pocos tienen un corazón fiel. Para
+								la</l>
+							<l>mayoría de los hombre esta es la única excelencia que existe:</l>
+							<l>ser rico. De las demás, nada te sería útil, ni aunque tuvieras</l>
+							<l>la cordura del propio Radamantis y supieras más cosas</l>
+							<l>que el Eólida Sísifo, quien incluso del Hades regresó gracias a</l>
+							<l>muchos ardides, tras haber convencido con aduladoras</l>
+							<l>palabras a Perséfone, la que da a los mortales el olvido dañando</l>
+							<l>su mente (tal cosa no había tramado ningún otro,a quien</l>
+							<l>la negra nube de la muerte haya ocultado, y haya ido a la sombra</l>
+							<l>región de los difuntos y haya cruzado las oscuras puertas,</l>
+							<l>que retienen a las almas de los muertos, aunque se resistan.</l>
+							<l>Y sin embargo, desde allí regresó el héroe Sísifo a la luz</l>
+							<l>del sol, gracias a sus muchas argucias.)</l>
+						</lg>
+						<lg n="170">
+							<l>Ni aunque forjaras mentiras semejantes a verdades, poseyendo</l>
+							<l>la lengua elocuente de Néstor, a un dios equiparable, y</l>
+							<l>fueras más rápido de pies que las veloces Harpías y que los </l>
+							<l>hijos de Bóreas, cuyos pies son ligeros. Mas es preciso que
+								todos</l>
+							<l>se penetren de esta idea: que el mayor poder en todo</l>
+							<l>lo tiene la riqueza.</l>
+						</lg>
+					</div>
+					<!--Voy por aquí-->
+					<div n="719">
+						<lg n="171">
+							<l>Son ricos por igual tanto el que tiene mucha plata, oro,</l>
+							<l>campos de tierra rica en trigo, caballos y mulas, como el</l>
+							<l>que dispone de lo necesario: disfrutar de su estómago, sus
+								costados</l>
+							<l>y sus pies, y de los favores de un muchacho y de una</l>
+							<l>mujer, cuando también llega esa edad, y le acompaña la juventud</l>
+							<l>adecuada. Estas cosas son la riqueza para los mortales;</l>
+							<l>pues nadie llega a la mansión de Hades con todas las riquezas</l>
+							<l>superfluas, y ni aunque pagara un rescate podría escapar a la</l>
+							<l>muerte ni a las graves enfermedades ni a la malhadada vejez</l>
+							<l>que se acerca.</l>
+							<l></l>
+							<l>Como inquietudes dotadas de abigarradas alas ha correspondido</l>
+							<l>a los hombres el llorar por la vida y la subsistencia.</l>
+						</lg>
+						<lg n="172">
+							<l>Padre Zeus, ojalá fuera grato a los dioses que el exceso</l>
+							<l>contentara a los malvados y que sus despreciables acciones
+								resultaran</l>
+							<l>algo grato a su corazón: y que aquel que [...] así obrare</l>
+							<l>conscientemente, sin respetar en nada a los dioses,</l>
+							<l>a continuación pagase él mismo sus maldades, y ya en adelante
+								las</l>
+							<l>locuras del padre no fueran una desgracia para los hijos; y que</l>
+							<l>los hijos, que, nacidos de un padre injusto, obran observando</l>
+							<l>la justicia, por temor a tu cólera, oh Crónida, y por amor a la</l>
+							<l>justicia desde un principio entre sus conciudadanos, no tengan</l>
+							<l>que pagar ningún desafuero de sus padres. ¡Ojalá</l>
+							<l>esto fuera grato a los bienaventurados dioses! Ahora, en cambio,</l>
+							<l>el culpable escapa y luego otro soporta la desgracia.</l>
+							<l>¿Y cómo es justo esto, rey de los inmortales, que un hombre</l>
+							<l>que está alejado de las acciones injustas, que no incurre en</l>
+							<l>desafuero alguno ni en juramento perverso, sino que es justo,</l>
+							<l>no reciba justicia? ¿Qué otro mortal, al verlo así, podría
+								respetar</l>
+							<l>luego a los inmortales, y con qué ánimo, cuando un</l>
+							<l>individuo e insensato, que no evita la cólera de ningún hombre</l>
+							<l>ni de ninguno de los inmortales, se insolenta harto</l>
+							<l>de riquezas, mientras que los justos se consumen apremiados</l>
+							<l>por la dura pobreza?</l>
+						</lg>
+						<lg n="173">
+							<l>Instruido en estas cosas, querido amigo, obtén tus riquezas</l>
+							<l>honestamente, manteniendo tu ánimo prudente lejos de la locura,</l>
+							<l>recordando siempre estos versos; al final agradecerás haber</l>
+							<l>obedecido a mis sensatas palabras.</l>
+						</lg>
+					</div>
+					<div n="757">
+						<lg n="174">
+							<l>Ojalá Zeus, que habita en el cielo, ponga siempre su mano</l>
+							<l>derecha sobre esta ciudad para su protección y también los demás</l>
+							<l>bienaventurados dioses inmortales; no obstante, que Apolo</l>
+							<l>dirija con rectitud mi lengua y mi mente; y que la </l>
+							<l>forminge y el aulo entonen un canto sagrado; y nosotros, en fin,</l>
+							<l>después de haber contentado a los dioses con libaciones, bebamos</l>
+							<l>contando cosas divertidas entre nosotros y sin temer la</l>
+							<l>guerra de los medos.</l>
+						</lg>
+						<lg n="175">
+							<l>Así pues, lo mejor es que, con corazón ufano, lejos de las</l>
+							<l>preocupaciones, pasemos la vida placenteramente y
+								regocijándonos;</l>
+							<l>y que apartemos de nosotros las infaustas Ceres, la funesta</l>
+							<l>vejez y la consumación de la muerte.</l>
+						</lg>
+						<lg n="176">
+							<l>Sería preciso que el servidor y mensajero de las Musas, si algo</l>
+							<l>extraordinario supiera, no lo ocultase celoso de su sabiduría,</l>
+							<l>sino que investigue unas cosas, enseñe otras y produzca</l>
+							<l>otras: ¿qué uso hará de ellas si es el único que las conoce?</l>
+						</lg>
+						<lg n="177">
+							<l>Soberano Febo, tú mismo levantaste las murallas de nuestra </l>
+							<l>acrópolis, por complacer a Alcátoo, hijo de Pélope; aparta</l>
+							<l>tú mismo de esta ciudad al insolente ejército de los medos,</l>
+							<l>para que el pueblo, con alegría, al llegar la primavera, celebre</l>
+							<l>en tu honor espléndidas hecatombes, deleitándose con la cítara</l>
+							<l>y con la agradable fiesta, con los coros de peanes y con </l>
+							<l>gritos en torno a tu altar. Pues en verdad siento temor al
+								contemplar</l>
+							<l>la insensatez y la división entre los griegos ruina</l>
+							<l>de un pueblo; per tú, Febo, guarda propicio esta nuestra</l>
+							<l>ciudad.</l>
+						</lg>
+						<lg n="178">
+							<l>Yo llegué, efectivamente, una vez a tierras sicilianas y llegué</l>
+							<l>a la llanura de Eubea, rica en viñedos, y a Esparta, la famosa
+								ciudad</l>
+							<l>del Eurotas, criador de cañas, y todos me acogían afectuosamente</l>
+							<l>al llegar; pero ninguna alegría de aquellas me llegó al</l>
+							<l>corazón: hasta tal punto ninguna otra cosa era más querida</l>
+							<l>que mi patria.</l>
+						</lg>
+						<lg n="179">
+							<l>Que ningún otro nuevo ideal aparezca nunca ante mí en lugar</l>
+							<l>de la virtud y la sabiduría, sino que, poseyéndolas siempre,</l>
+							<l>pueda regocijarme con la formine, la danza y el canto, y</l>
+							<l>tengo un carácter noble en compañía de hombres de bien, sin
+								hacer</l>
+							<l>daño a ningún extranjero con acciones perniciosas ni tampoco</l>
+							<l>a ningún nativo, sino siendo justo.</l>
+						</lg>
+						<lg n="180">
+							<l>Alegra tu corazón; de entre tus intratables conciudadanos,</l>
+							<l>uno hablará mal de ti, el otro, mejor.</l>
+						</lg>
+						<lg n="181">
+							<l>Uno censura mucho a los hombres bien, otro los alaba,</l>
+							<l>mientras que no queda ningún recuerdo de los malvados.</l>
+						</lg>
+						<lg n="182">
+							<l>Ningún hombre es irreprehensible sobre la tierra; pero qué</l>
+							<l>mejor sería si no interesase a mucha gente.</l>
+						</lg>
+					</div>
+					<div n=" 801">
+						<lg n="183">
+							<l>Es preciso que sea más exacto que el compás, el cordel, y la</l>
+							<l>escuadra, y precavido, Cirno, el hombre enviado al oráculo, al
+								que,</l>
+							<l>en Pitón, la sacerdotisa del dios, al profetizar, le indicase la
+								respuesta</l>
+							<l>desde su rico santuario; pues si añadieses algo, ya no</l>
+							<l>podrías hallar remedio alguno ni tampoco, si lo quitas, podrías</l>
+							<l>escapar de la falta a los ojos de los dioses.</l>
+						</lg>
+						<lg n="184">
+							<l>He sufrido un acontecimiento de ningún modo pero que la</l>
+							<l>muerte cruel, pero sí más doloroso, Cirno, que todas las demás</l>
+							<l>cosas: me han traicionado los amigos, mas yo, acercándome a los</l>
+							<l>enemigos, voy a ver también qué sentimientos anidan entre ellos.</l>
+						</lg>
+						<lg n="185">
+							<l>Un buey, que está posado sobre mi lengua con pesada pezuña,</l>
+							<l>me impide chismorrear aunque estoy enterado, Cirno; no</l>
+							<l>obstante, no es posible en modo alguno evitar lo que esté destinado
+								sufrir.</l>
+							<l>[Lo que está destinado sufrir, en modo alguno temo sufrirlo].</l>
+						</lg>
+						<lg n="186">
+							<l>Hemos caído en una desgracia muy deseada, donde ojalá,</l>
+							<l>Cirno, nos alcance a ambos el destino fatal de la muerte.</l>
+						</lg>
+						<lg n="187">
+							<l>Poca consideración resulta, Cirno, para aquellos que no</l>
+							<l>honran a sus progenitores cuando se hacen viejos.</l>
+						</lg>
+						<lg n="188">
+							<l>No ayudes a un tirano con alguna esperanza, sucumbiendo a las</l>
+							<l>ganancias, ni lo mates tras haberle prestado juramento por los
+								dioses.</l>
+						</lg>
+						<lg n="189">
+							<l>¿Cómo se atreve a cantar vuestro corazón al son del auletista?</l>
+							<l>Desde la plaza se divisa la frontera de esta tierra, que os
+								alimenta</l>
+							<l>con sus frutos, a vosotros que en vuestras ruvias cablleras
+								lleváis</l>
+							<l>en los banquetes purpúreas coronas. ¡Vamos, escita, corta tu</l>
+							<l>bellera, haz cesar la fiesta y llora por esta aromática tierra
+								que</l>
+							<l>desaparece!</l>
+						</lg>
+						<lg n="190">
+							<l>Por confianza perdí mis riquezas y por desconfianza las salvé:</l>
+							<l>el pensamiento en ambas me resulta penoso.</l>
+						</lg>
+						<lg n="191">
+							<l>Todo está abandonado a los cuervos y en la ruina; para nosotros</l>
+							<l>ninguno de los bienaventurados dioses inmortales, Cirno, es</l>
+							<l>culpable, sino que la violencia, la ganancia codiciosa y el
+								desenfreno</l>
+							<l>de los hombres son los que nos han arrojado desde una</l>
+							<l>gran prosperidad a la miseria.</l>
+						</lg>
+						<lg n="192">
+							<l>Dos infortunios se derivan de la bebida para los infelices</l>
+							<l>mortales: la sed que afloja los miembros y la embriaguez
+								molesta;</l>
+							<l>en medio de ellas me moveré y no me convencerás ni de beber un</l>
+							<l>poco ni de emborracharme en exceso.</l>
+						</lg>
+						<lg n="193">
+							<l>Por algunas cosas el vino me es agradable, mas por una sola,</l>
+							<l>desagradable: cuando después de embriagarme me conduce ante</l>
+							<l>un enemigo.</l>
+						</lg>
+						<lg n="194">
+							<l>Cada vez que se está arriba desde abajo que estaba, entonces</l>
+							<l>hay que volver a casa dejando la bebida.</l>
+						</lg>
+						<lg n="195">
+							<l>Es fácil producir un daño a un hombre que está en buena
+								situación,</l>
+							<l>mientras que arreglar lo que está en mala situación, es difícil.</l>
+						</lg>
+						<lg n="196">
+							<l>Pisotea al pueblo de espíritu vacío, azúzale con punzante</l>
+							<l>aguijón y echa alrededor de su cuello un pesado yugo: pues no</l>
+							<l>encontrarás un pueblo tan servil entre todos los hombres que</l>
+							<l>contempla el sol.</l>
+						</lg>
+					</div>
+					<div n="851">
+						<lg n="197">
+							<l>Ojalá Zeus del Olimpo aniquile al hombre que pretende engañar a su
+								amigo adulándolo con palabras complacientes.</l>
+						</lg>
+						<lg n="198">
+							<l>Yo ya lo sabía de antes, pero ahora todavía mucho mejor: que</l>
+							<l>los hombres viles no guardan ninguna gratitud.</l>
+						</lg>
+						<lg n="199">
+							<l>Muchas veces esta ciudad, a causa de la ineptitud de sus jefes,</l>
+							<l>ha navegado a lo largo de la costa como una nave a la deriva.</l>
+						</lg>
+						<lg n="200">
+							<l>Si alguno de mis migos ve que estoy en mala situación, tras</l>
+							<l>volver la cabeza, no quiere ni mirarme; pero si alguna vez poseo</l>
+							<l>cierta riqueza - lo que pocas veces sucede a un hombre - recibo</l>
+							<l>muchos abrazos y muestras de amistad.</l>
+						</lg>
+						<lg n="201">
+							<l>Me traicionan los amigos y nada quieren darme cuando hay</l>
+							<l>gente delante; pero yo, por mi cuenta, salgo de casa por la tarde
+								y</l>
+							<l>regreso al alba, cuando se oye el canto de los gallos que se
+								despiertan.</l>
+						</lg>
+						<lg n="202">
+							<l>A muchos hombres inútiles la divinidad concede la riqueza,</l>
+							<l>un bien, que no representa nada mejor para ellos ni para sus
+								amigos;</l>
+							<l>en cambio, la gran fama del valor jamás desaparecerá, pues</l>
+							<l>un guerero salva a su tierra y a su ciudad.</l>
+						</lg>
+						<lg n="203">
+							<l>Que caiga sobre mí desde lo alto el enorme gran cielo de</l>
+							<l>bronce - temor de los hombres nacidos tiempo ha-, si yo no ayudo a
+								ellos que me quieren y no he de ser un tormento</l>
+							<l>y un gran azote para mis enemigos.</l>
+						</lg>
+						<lg n="204">
+							<l>Oh vino, te alabo por unas cosas y te reprendo por otras;</l>
+							<l>en modo alguno puedo odiarte ni amarte. Eres algo bueno y malo.</l>
+							<l>¿Quién podría censurarte, quién, que posea la medida de la
+								sabiduría,</l>
+							<l>podría alabarte?</l>
+						</lg>
+						<lg n="205">
+							<l>Goza de la juventud, corazón mío: pronto existirán otros</l>
+							<l>hombres, y yo, muerto ya, seré negra tierra.</l>
+						</lg>
+						<lg n="206">
+							<l>Bebe este vino que para mí, bajo las cumbres del Taigeto, produjeron
+								las viñas que el viejo Teomino, amado por los dioses,</l>
+							<l>plantó en los valles de la montaña, trayendo agua fresca del
+								Platanistunte.</l>
+							<l>Bebiendo de él alejarás tus amargas tristezas, y, una vez</l>
+							<l>que te hayas achispado, te sentirás mucho menos apesadumbrado.</l>
+						</lg>
+						<lg n="207">
+							<l>Ojalá la paz y la riqueza se adueñen de la ciudad, par que yo</l>
+							<l>pueda celebrar festjos en compañía de otros; yo no amo</l>
+							<l>la perniciosa guerra.</l>
+						</lg>
+						<lg n="208">
+							<l>No prestes demasiado oído al heraldo aunque grite mucho:</l>
+							<l>pues no estamos batallando por la tierra patria.</l>
+						</lg>
+						<lg n="209">
+							<l>Pero es vergonzoso no mirar de frente a la guerra lacrimosa</l>
+							<l>que llega y que viene montada sobre veloces corceles.</l>
+						</lg>
+						<lg n="210">
+							<l>¡Ay de mi cobardía! Cerinto está destruido y los hermosos viñedos de
+								Lelanto están talados; los hombres de bien están en el</l>
+							<l>exilio, mientras que los malvados gobiernan la ciudad ¡Así
+								destruya</l>
+							<l>Zeus al linaje de los Cipsélidas!</l>
+						</lg>
+						<lg n="211">
+							<l>El hombre en sí mismo no posee nada más preciado que la inteligencia,
+								y ninguna más funesta, Cirno, que la ignorancia.</l>
+						</lg>
+						<lg n="212">
+							<l>Cirno, si un dios se irritase a cada momento con los mortales</l>
+							<l>al conocer el proyecto que cada uno alberga en el pecho y las
+								acciones,</l>
+							<l>tanto del justo como del inusto, los mortales tendrían</l>
+							<l>sobre sí una gran calamidad.</l>
+						</lg>
+					</div>
+					<div n="901">
+						<lg n="213">
+							<l>En cada actividad uno es peor, mientras que otro es mejor;</l>
+							<l>ningún hombre es experto en todas ellas por sí solo.</l>
+						</lg>
+						<lg n="214">
+							<l>El que vigila el gasto, buscándolo según su dinero, posee la</l>
+							<l>virtud más notable a ojos de los entendidos. Pues si fuera
+								posible</l>
+							<l>conocer el límite de la vida, al que debe llegar cada uno</l>
+							<l>para pasar a la mansión de Hades, sería natural que aquel que</l>
+							<l>tuviera que esperar su destino por más tiempo, ahorrara más</l>
+							<l>para disponer de medios de vida; sin embargo, ahora no es así,</l>
+							<l>lo que también a mí me provoca un gran dolor, me muerde</l>
+							<l>el alma y tengo el corazón dividido en dos. Estoy en una</l>
+							<l>encrucijada; delante de mí hay dos caminos; medito cuál de</l>
+							<l>ellos recorreré preferentemente: consumir la vida en la
+								indigencia</l>
+							<l>sin gastar nada o vivir placenteramente realizando un</l>
+							<l>trabajo escaso. Pues yo he visto a uno que ahorraba y nunca</l>
+							<l>daba a su estómago una comida generosa, aunque era rico;</l>
+							<l>pero antes de gastar descendió al interior de la mansión de
+								Hades,</l>
+							<l>mientras que un advenedizo cualquier se adueño de sus</l>
+							<l>riquezas; de manera que esto es trabajar en vano y no legar la</l>
+							<l>fortuna a quien uno quiera. Y he visto a otro que, por dar gusto</l>
+							<l>a su estómago, dilapidó sus riquezas y dijo: "Me marcho</l>
+							<l>después de satisfacer mi apetito"; y ahora pide limosna a todos</l>
+							<l>sus amigos, allí donde ve a alguno. Por tanto, Democles, lo
+								mejor</l>
+							<l>de todo es gastar según tus riquezas y tener cuidado; pues</l>
+							<l>así no harías partícipe a otro del fruto de tu trabajo, tras
+								haberte</l>
+							<l>fatigado tú antes, ni acabarías en la servidumbre, pidiendo</l>
+							<l>limosna. Ni tampoco, si llegases a la vejez, se habría esfumado</l>
+							<l>todas tus riquezas; en una generación como esta tener riquezas</l>
+							<l>es lo mejor. Pues si eres rico, tienes muchos amigos, pero si</l>
+							<l>eres pobre, pocos, y al mismo individuo ya no es igualmente</l>
+							<l>bueno.</l>
+						</lg>
+						<lg n="215">
+							<l>Ser ahorrativo es lo mejor, ya que nadie llora al muerto, a no </l>
+							<l>ser que vea que deja dinero.</l>
+						</lg>
+						<lg n="216">
+							<l>A pocos hombres les acompañan la virtud y la belleza: dichoso</l>
+							<l>aquel que obtiene en suerte una y otra. Todos le</l>
+							<l>honran: tanto los jóvenes como los de su misma edad y los más</l>
+							<l>ancianos le ceden el paso. Y cuando envejece se distingue</l>
+							<l>entre sus conciudadanos y nadie pretende lesionar su honor</l>
+							<l>ni su derecho.</l>
+						</lg>
+						<lg n="217">
+							<l>No puedo cantar con voz melodiosa como un ruiseñor; pues,</l>
+							<l>en efecto, la noche última me fui de juerga. No me discuplo</l>
+							<l>con el auletista; me abandona mi compañero, que no carece de</l>
+							<l>esa destreza.</l>
+						</lg>
+						<lg n="218">
+							<l>Una vez colocado aquí, cerca del auletista, a su derecha, cantaré</l>
+							<l>invocando a los dioses inmortales.</l>
+						</lg>
+						<lg n="219">
+							<l>Recorreré un camino recto, como a lo largo de un cordel, sin</l>
+							<l>inclinarme hacia ninguna de las dos partes; pues es preciso que</l>
+							<l>yo piense en todo equilibradamente.</l>
+						</lg>
+						<lg n="220">
+							<l>Gobernaré mi patria, una ilustre ciudad, sin entregarme al</l>
+							<l>pueblo y sin dejarme seducir por hombres injustos.</l>
+						</lg>
+						<lg n="221">
+							<l>Alcancé a la carrera cual león en su resistencia fiado, a un
+								cervatillo debajo de la cierva y no bebí su sangre; escalé las</l>
+							<l>altas murallas y no saqueé la ciudad; aparejé los caballos y no</l>
+							<l>monté en el carro; hice y no hice, cumplí y no cumplí, realicé</l>
+							<l>y no realicé, obtuve y no obtuve.</l>
+						</lg>
+					</div>
+					<div n="955">
+						<lg n="222">
+							<l>El que hace bien a los malvados sufre dos males: será privado</l>
+							<l>de mucho de lo suyo propio y no obtendrá ningún agradecimiento.</l>
+						</lg>
+						<lg n="223">
+							<l>Si no me muestras gratitud después de haber recibido de mí</l>
+							<l>un gran favor, ojalá vengas de nuevo a mi casa necesitando algo.</l>
+						</lg>
+						<lg n="224">
+							<l>Mientras yo solo bebía de la fuente de negras aguas, me parecía</l>
+							<l>que su agua era dulce y hermosa; pero ahora está ya</l>
+							<l>turbia y el agua se mezcla con otra agua: beberé de otra fuente o </l>
+							<l>de un río.</l>
+						</lg>
+						<lg n="225">
+							<l>Nunca alabes a un hombre antes de que lo conozcas con</l>
+							<l>certeza y sepas quién es en cuanto a inclinación natural,
+								disposición</l>
+							<l>y carácter. Muchos, que tienen una manera de ser falsa y ladina,</l>
+							<l>lo ocultan, adoptando otro temperamento por un día; pero el</l>
+							<l>tiempo descubre por completo la manera de ser de cada un ode</l>
+							<l>ellos. Así pues, yo mismo he rectificado a menudo mi opinión:</l>
+							<l>me apresuré a alabarte antes de conocer bien toda tu manera de</l>
+							<l>ser; pero ahora, como una nave, estoy lejos de ti.</l>
+						</lg>
+						<lg n="226">
+							<l>¿Qué mérito hay en llevarse el premio a lmejor bebedor? Muchas</l>
+							<l>veces, en efecto, un malvado vence a un hombre de bien.</l>
+						</lg>
+						<lg n="227">
+							<l>Ningún hombre, al que cubre la tierra y desciende hasta el</l>
+							<l>abismo, morada de Perséfone, se deleita escuchando la lira o al</l>
+							<l>auletista ni levantando los dones de Dioniso. Viendo esto, me</l>
+							<l>alegraré en mi corazón, mientras sean ágiles mis rodillas y
+								mantenga</l>
+							<l>la cabeza serenamente.</l>
+						</lg>
+						<lg n="228">
+							<l>Que nadie sea mi amigo solo con la lengua, sino también con</l>
+							<l>obras; que venga en mi ayuda con su brazo y con su riqueza a la</l>
+							<l>vez; y no halague mi corazón con palabras junto a la cratera,</l>
+							<l>sino que lo demuestre, si puede, haciéndome el bien.</l>
+						</lg>
+						<lg n="229">
+							<l>Tengamos bien dispuesto nuestro ánimo en las fiestas, mientras</l>
+							<l>aún pueda disfrutar los goces amables del placer. Pues pasa</l>
+							<l>rauda como pensamiento la jubilosa juventud; y no es más rápido </l>
+							<l>el galope de las potras, que impetuosamente llevan a su señor</l>
+							<l>al trabajo de lanza propio de hombres, al tiempo que gozan</l>
+							<l>de la fértil llanura,</l>
+						</lg>
+						<lg n="230">
+							<l>Bebe cuando beban; y cuando estés triste en tu corazón, que</l>
+							<l>ningún hombre te vea apesumbrado.</l>
+						</lg>
+						<lg n="231">
+							<l>Unas veces te afligirás al sufrir algunas cosas, mientras que</l>
+							<l>otras te alegrarás de ocasionarlas tú: unas veces puede hacerlo
+								un</l>
+							<l>hombre y otras otro.</l>
+						</lg>
+						<lg n="232">
+							<l>Si me propusieras entonar, Academo, una agradable canción</l>
+							<l>y el premio colobado en medio para ti y para mí, cuando
+								rivalizmos</l>
+							<l>en talento, fuera un joven en su hermosa plenitud, aprenderías</l>
+							<l>cuán superiores son los mulos a los asnos. Y cuando el sol</l>
+							<l>recorriese precisamente la mitad del día e impulsase de lado a
+								sus</l>
+							<l>solípedos corceles en el cielo, pondríamos fin a la comida, en
+								el</l>
+							<l>momento en que el apetito urgiese a cadas cual, dando gusto al</l>
+							<l>estómago con toda clase de manjares, y que una hermosa</l>
+							<l>joven calonia, con sus delicadas manos, llevase en seguida el</l>
+							<l>aguamanil y las coronas.</l>
+						</lg>
+					</div>
+					<div n="1104">
+						<lg n="233">
+							<l>Esta es la excelencia, este es entre los hombres el mejor y más</l>
+							<l>bello título que puede llevar un hombre sabio, este es un bien</l>
+							<l>común para la ciudad y para todo el pueblo, que un hombre </l>
+							<l>permanezca erguido en primera línea de batalla.</l>
+						</lg>
+						<lg n="234">
+							<l>Voy a dar un consejo a los hombres: que mientras uno, poseyendo</l>
+							<l>la hermosa flor de la juventud, tenga en sus adentros nobles</l>
+							<l>pensamientos, disfrute de sus propios bienes; pues a los hombres
+								mortales</l>
+							<l>no les está permitido por parte de lod dioses alcanzar la
+								juventud</l>
+							<l>dos veces ni la liberación de la muerte: la infausta y funesta</l>
+							<l>vejez lo pone en evidencia y se apodera de lo más alto de su
+								cabeza.</l>
+						</lg>
+						<lg n="235">
+							<l>Oh bienaventurad, feliz u dichoso aquel que baja a la oscura</l>
+							<l>mansión de Hdes sin haber experimentado la lucha y antes de</l>
+							<l>haberse asustado de los enemigos, de haberlos sometido a algún </l>
+							<l>exceso por necesidad y de haber puesto a prueba los sentimientos</l>
+							<l>que albergan sus amigos.</l>
+						</lg>
+						<lg n="236">
+							<l>Un inmenso duro al punto me recorre la piel y me emociono</l>
+							<l>al contemplar la flor de la juventud, tan agradable como
+								hermosa:</l>
+							<l>¡ojalá fuera aún más duradera! Pero dura un breve tiempo,</l>
+							<l>como un sueño, la preciada juventud; y al punto, funesta y</l>
+							<l>deforme, la vejez pende sobre nuestra cabeza.</l>
+						</lg>
+						<lg n="237">
+							<l>Nunca pondré el cuello bajo el pesado yugo de mis enemigos,</l>
+							<l>ni aunque el Tmolo esté sobre mi cabeza.</l>
+						</lg>
+						<lg n="238">
+							<l>Los miserables son más necios de espíritu en el infortunio,</l>
+							<l>mientras que las acciones de los hombres de bien siempre son</l>
+							<l>más rectas.</l>
+						</lg>
+						<lg n="239">
+							<l>La realización del mal es fácil entre los hombres, mientras</l>
+							<l>que el triunfo del bien, Cirno, es difícil.</l>
+						</lg>
+						<lg n="240">
+							<l>Ten valor, alma mía, en la desgracia, aunque has padecio cosas</l>
+							<l>insufribles; el corazón de los cobardes es el más fácil de
+								turbar.</l>
+							<l>Y tú no presumes de empresas fracasadas aumentando tu</l>
+							<l>disgusto ni de los ultrajes; ni molestes a tus amigos ni alegres a
+								tus</l>
+							<l>enemigos. Un mortal no puede sustraerse fácilmente a los dones</l>
+							<l>determinaods por los dioses, ni aunque se sumerja hasta el fondo</l>
+							<l>del purpúreo mar ni cuando lo acoja el sombrío Tártaro.</l>
+						</lg>
+						<lg n="241">
+							<l>Es muy difícil engañar a un hombre de bien, pues en mí, Cirno,</l>
+							<l>mi opinión decide desde hace tiempo.</l>
+						</lg>
+						<lg n="242">
+							<l>Yo ya lo sabía antes, pero ahora todavía mucho mejor: que los</l>
+							<l>hombres viles no guardan ninguna gratitud.</l>
+						</lg>
+						<lg n="243">
+							<l>Son insensatos y necios los hombres que no beben vino</l>
+							<l>cuando comienza la constelación del Can.</l>
+						</lg>
+						<lg n="244">
+							<l>¡Venid aquí con un auletista! Bebamos riendo junto al que</l>
+							<l>llora, alegrándonos de sus penas.</l>
+						</lg>
+						<lg n="245">
+							<l>Durmamos: la vigilancia de esta inexpugnable ciudad, nuestra</l>
+							<l>amada patria, estará al cuidado de los guardianes.</l>
+						</lg>
+						<lg n="246">
+							<l>Sí, por Zeus, aunque alguno de éstos duerme bien tapado,</l>
+							<l>recibirá con placer nuestra comitiva.</l>
+						</lg>
+						<lg n="247">
+							<l>Alegrémonos ahora bebiendo, mientras contamos cosas</l>
+							<l>placenteras; más de lo que haya de suceder después, eso es asunto </l>
+							<l>de los dioses.</l>
+						</lg>
+						<lg n="248">
+							<l>Yo te voy a dar personalmente saludables consejos como un</l>
+							<l>padre a su hijo; mételos tú en tu corazón y en tus mientes.</l>
+							<l>Nunca hagas nada malo por precipitarte, sino medita con tu</l>
+							<l>profunda inteligencia y con tu buen juicio. El corazón y las
+								intenciones</l>
+							<l>de los irreflexivos son volátiles, mientras que la meditación</l>
+							<l>conduce al bien y a un juicio sensato.</l>
+						</lg>
+					</div>
+					<div n="1055">
+						<lg n="249">
+							<l>Así pues, dejemos esta conversación; no obstante, tú toca el</l>
+							<l>aulo para í y traigamos ambos el recuerdo de las Musas; que</l>
+							<l>ellas nos concedieron a ti y a mí poseer sus amables dones y
+								hacer</l>
+							<l>partícipes de ellos a nuestros vecinos.</l>
+						</lg>
+						<lg n="250">
+							<l>Timágoras, para el que observa desde lejos le es difícil conocer</l>
+							<l>el carácter de la mayoría, aunque sea un sabio. Unos,</l>
+							<l>en efecto, detentan su maldad ocultándola con el dinero y otros</l>
+							<l>su virtud con la funesta pobreza.</l>
+						</lg>
+						<lg n="251">
+							<l>En la juventud es posible que uno duerma toda la noche con</l>
+							<l>alguien de nuestra edad, colmando el deseo de actos amorosos;</l>
+							<l>es posible que uno, al celebrar un banquete, cante al son del
+								auletista:</l>
+							<l>nada hay más placenter que estas cosas para hombres y</l>
+							<l>mujeres. ¿Qué son para mí la riqueza y el honor? El placer
+								acompañador de la alegría supera a todo.</l>
+						</lg>
+						<lg n="252">
+							<l>Insensatos y necios los hombres que lloran a los muertos y no</l>
+							<l>a la flor de la juventud que se marchita.</l>
+						</lg>
+						<lg n="253">
+							<l>Alégrate, mi querido corazón: pronto existirán otros hombres,</l>
+							<l>y yo, muerto ya, seré negra tierra.</l>
+						</lg>
+						<lg n="254">
+							<l>Cirno, cambia ante cada amigo tu voluble carácter, adaptando</l>
+							<l>el carácter como cada uno es.</l>
+						</lg>
+						<lg n="255">
+							<l>Ahora acomódate a este, y luego sé otro diferente de carácter.</l>
+							<l>La habilidad es mejor que la más excelsa virtud.</l>
+						</lg>
+						<lg n="256">
+							<l>Cuando una empresa está inacabada, es muy difícil saber su</l>
+							<l>final, de qué modo la divinidad va a concluirlo; pues una</l>
+							<l>oscuridad se extiende, y antes de que suceda lo que va a llegar, a
+								los</l>
+							<l>mortales no les son inteligibles los límites de lo imposible.</l>
+						</lg>
+						<lg n="257">
+							<l>No calumniaré a ninguno de mis enemigos, aunque sea noble,</l>
+							<l>ni alabaré a ningún villano, aunque sea amigo.</l>
+						</lg>
+						<lg n="258">
+							<l>Cirno, esta ciudad está preñada y temo que ella para un hombre</l>
+							<l>insolente, caudillo de una cruel revolución; pues estos
+								ciudadanos</l>
+							<l>aún son sensatos, pero los gobernantes están abocados a</l>
+							<l>caer en una gran maldad.</l>
+						</lg>
+						<lg n="259">
+							<l>No me quieres de palabra, mientras tengas tu pensamiento y</l>
+							<l>tus sentimientos en otra parte, si es que me amas y tienes una
+								intención</l>
+							<l>honrada, así que ámame con intención sincera o, rompiendo
+								conmigo,</l>
+							<l>aborréceme emprendiendo abiertamente una</l>
+							<l>querella. Así es preciso que el hombre de bien mantenga siempre</l>
+							<l>firme hasta el final su afecto atento hacia su amigo.</l>
+						</lg>
+						<lg n="260">
+							<l>Demonacte, te resulta pesado soportar tantas contrariedades;</l>
+							<l>pues no sabes hacer más que aquello que te es grato.</l>
+						</lg>
+						<lg n="261">
+							<l>Cástor y Polideuces, que en la divina Lacedemonia moráis junto al río
+								Eurotas de hermosa corriente, si alguna ver urdiera</l>
+							<l>algún mal contra un amigo, que yo mismo lo reciba; mas si él lo</l>
+							<l>urde contra mí, que él mismo lo reciba doble.</l>
+						</lg>
+						<lg n="262">
+							<l>Mi corazón se halla en situación delicada respecto a mi amor</l>
+							<l>por ti: n puedo odiarte ni amarte, porque copmrendo que cuando</l>
+							<l>un hombre tiene un amante, es díficil odiarlo, pero también es</l>
+							<l>difícil amarlo aunque no quiera él.</l>
+						</lg>
+						<lg n="263">
+							<l>Por tu mirada ahora en otro; yo no tengo ninguna necesidad</l>
+							<l>de hacer eso; dame las gracias por los favores de antes.</l>
+						</lg>
+						<lg n="264">
+							<l>Ya me elevo con mis alas, como un ave fuera de un gran lago,</l>
+							<l>huyendo de un hombre malvado, después de romper el lazo; más</l>
+							<l>tú, que has perdido mi amistad, conocerás más aelante mi
+								prudencia.</l>
+						</lg>
+					</div>
+					<div n="1101">
+						<lg n="265">
+							<l>Quien te aconsejó sobre mí y te invitó a que te marcharas</l>
+							<l>traicionando mi amistad, ese hombre, querido Cirno, se forja</l>
+							<l>grilletes para sí mismo, si es que los dioses no burlan mi
+								entendimiento.</l>
+						</lg>
+						<lg n="266">
+							<l>El desenfreno perdió a los magnesios, a Colofón y a Esmirna;</l>
+							<l>y sin duda alguna, Cirno, también os perderá a vosotros.</l>
+						</lg>
+						<lg n="267">
+							<l>La reputación es un gran mal para los hombres, y la prueba es</l>
+							<l>lo mejor; muchos, que no han dado prueba de nad, tienen
+								reputación</l>
+							<l>de buenos.</l>
+						</lg>
+						<lg n="268">
+							<l>Acercándote a la piedra de toque y siendo frotado con el plomo,</l>
+							<l>si eres realmente puro, serás virtuoso a los ojos de todos.</l>
+						</lg>
+						<lg n="269">
+							<l>¡Oh desgraciada de mí! Por haber sufrido infortunios, he llegado</l>
+							<l>a ser motivo de risa para mis enemigos y una carga para mis
+								amigos.</l>
+						</lg>
+						<lg n="270">
+							<l>Cirno, los hombres de bien de antes ahora son malvados, y los</l>
+							<l>malvados de antes ahora son hombres de bien. ¿Quién podría</l>
+							<l>soportar al ver esto, que los hombres de bien están privados de</l>
+							<l>honores, mientras que los malvados alcanzan un puesto de honor?</l>
+						</lg>
+						<lg n="271">
+							<l>El noble pretende a la hija del villano; y engañándose unos a
+								otros,</l>
+							<l>se ríen unos de otros, sin tener memoria de lo bueno ni de lo
+								malo.</l>
+						</lg>
+						<lg n="272">
+							<l>Afligido en mi corazón doy vueltas y vueltas en medio de las</l>
+							<l>dificultades; pues no he huido del reino de l pobreza.</l>
+						</lg>
+						<lg n="273">
+							<l>Al poseer riquezas me has echado en cara mi pobreza; sin</l>
+							<l>embargo, yo tengo algunos bienes y los otros los ganaré con mi</l>
+							<l>trabajo, orando a los dioses.</l>
+						</lg>
+						<lg n="274">
+							<l>Pluto, el más hermoso y deseable de todos los dioses, contigo</l>
+							<l>incluso el que es malvado se vuelve noble.</l>
+						</lg>
+						<lg n="275">
+							<l>Ojalá tuviera yo la plenitud de la juventud y me amaran Febo</l>
+							<l>Apolo, hijo de Leto, y Zeus, el rey de los inmortales, para</l>
+							<l>que con la justicia pueda vivir al abrigo de todas las desgracias,
+								alegrando</l>
+							<l>mi corazón con la juventud y la riqueza.</l>
+						</lg>
+						<lg n="276">
+							<l>No me recuerdes los males; he sufrido como Odiseao, que regresó</l>
+							<l>tras escapar de la gran morada de Hades. Aquel, con justo,</l>
+							<l>mató con ánimo implacable a los pretendientes de Penélope, su</l>
+							<l>legítima esposa, que, junto a su hijo querido, aguardaba
+								esperándolo,</l>
+							<l>hasta que pisó la tierra y sus horribles moradas.</l>
+						</lg>
+						<lg n="277">
+							<l>Voy a beber; no me voy a preocupar de la atribuladora pobreza</l>
+							<l>ni de mis enemigos, que hablan mal de mí. Pero sollozo</l>
+							<l>por la amable juventud, que me abandona, y lloro por la amarga </l>
+							<l>vejez que se aproxima.</l>
+						</lg>
+						<lg n="278">
+							<l>Cirno, acabemos con el origen del mal de nuestros amigos</l>
+							<l>aquí presentes, y busquemos el remedio para la úlcera que se les </l>
+							<l>ha producido.</l>
+						</lg>
+						<lg n="279">
+							<l>La Esperanza es la única diosa clemente que habita entre</l>
+							<l>los hombres, las demás se marcharon al Olimpo abandonándolos.</l>
+							<l>Se fue la confianza, gran diosa, se fue de entre los hombres</l>
+							<l>la Prudencia, y las Gracias, amigo, dearon la tierra; ya no</l>
+							<l>hay juramentos fiables ni justos entre los hombres, y nadie</l>
+							<l>respeta a los dioses inmortales, se extingió la estirpe de los
+								hombres piadosos y ya no reconocen los preceptos ni la</l>
+							<l>piedad. Pero mientras uno viva y contemple la luz del sol siendo</l>
+							<l>piadoso con los dioses, que persevere la Esperanza; que</l>
+							<l>ore a lod dioses y, cuando queme pingues muslos, haga su
+								sacrificio,</l>
+							<l>e primer y último lugar, en honor de la Esperanza.</l>
+							<l>Que esté prevenido siempre del discurso sinuoso de los hombres</l>
+							<l>injustos que, sin respetar en nada a los dioses inmortales,</l>
+							<l>siempre dirigen su antención hacia los bienes ajenos,</l>
+							<l>estableciendo tratos vergonzosos mediante sórdidos</l>
+							<l>procedimientos.</l>
+						</lg>
+					</div>
+					<div n="1151">
+						<lg n="280">
+							<l>Nunca abandones al amigo que está a tu lado y busques</l>
+							<l>otro seducido por las palabras de hombres viles.</l>
+						</lg>
+						<lg n="281">
+							<l>Ojalá me fuera posible vivir siendo rico lejos de las
+								preocupaciones</l>
+							<l>de manera indemne y sin sufrir desgracia alguna.</l>
+						</lg>
+						<lg n="282">
+							<l>No deseo ser rico ni se lo ruego a los dioses, mas ojalá me fuera</l>
+							<l>posible vivir con pocos recursos y sin sufrir desgracia alguna.</l>
+						</lg>
+						<lg n="283">
+							<l>La riqueza y la sabiduría siempre son las cosas más irresistibles</l>
+							<l>para los mortales; pues nunc apodrás saciar el ansia de riqueza;</l>
+							<l>e igualmente, el más sabio no rehúsa la sabiduría, sino</l>
+							<l>que la desea y no puede satisfacer su deseo.</l>
+						</lg>
+						<lg n="284">
+							<l>Cómprate ahora otro; yo no tengo ninguna necesidad de hacer</l>
+							<l>eso; dame las gracias por los favores de antes.</l>
+						</lg>
+						<lg n="285">
+							<l>Ningún teroso dejarás a tus hijos, Cirno, mejor que el respeto,</l>
+							<l>si se lo das a los hombres de bien.</l>
+						</lg>
+						<lg n="286">
+							<l>En efecto, no hay nadie completamente feliz; pero el noble es</l>
+							<l>valiente cuando sufre un infortunio y ello no es conocido al
+								mismo</l>
+							<l>tiempo, mientras que el villano no sabe adaptar por igual su
+								ánimo</l>
+							<l>ni en la fortuna ni en la desgracia. Los dones de los inmortales
+								que</l>
+							<l>sobrevienen a los mortales son variados; pero hay que tener
+								valor</l>
+							<l>para aceptar los regalos de los imortales tal cual los otorgan.</l>
+						</lg>
+						<lg n="287">
+							<l>Los ojos, la lengua, los oídos y la mente de los hombres nacen,</l>
+							<l>para los sabios, en medio del pecho.</l>
+						</lg>
+						<lg n="288">
+							<l>Un amigo debe ser um hombre tal que conociendo a su compañero</l>
+							<l>lo soporte, aunque sea de díficil carácter, como si fuera</l>
+							<l>un hermano. Medítame estas ideas, querido amigo, en tu corazón,</l>
+							<l>y algún día te acordarás de mí.</l>
+						</lg>
+						<lg n="289">
+							<l>Aunque lo busco con ahínco, no puedo encontrar un compañero</l>
+							<l>fiel semejante a mí, en el que no sea posible el engaño;
+								acercándome</l>
+							<l>a la piedra de toque y frotándome con ella como el oro con el</l>
+							<l>plomo, y en mí está presente la convicción de una superioridad.</l>
+						</lg>
+						<lg n="290">
+							<l>Mézclate con los hombrs¡es de bien y nunca te juntes con los
+								malvados</l>
+							<l>hasta que termines el final del camino de un viaje de negocios.</l>
+						</lg>
+						<lg n="291">
+							<l>La respuesta de los hombres de bien es noble, y nobles son</l>
+							<l>sus acciones: mas las perversas palabras de los malvados se las
+								llevan</l>
+							<l>los vientos.</l>
+						</lg>
+						<lg n="292">
+							<l>De las malas compañías nacen las desgracias; tú mismo lo constatarás, </l>
+							<l>ya que has ofendido a los grandes dioses inmortales.</l>
+						</lg>
+						<lg n="293">
+							<l>La inteligencia, Cirno, es lo mejor que los dioses han concedido</l>
+							<l>a los mortales; la inteligencia domina los límites de todo.</l>
+							<l>¡Ah, feliz el que la posee en su ánimo! Es, en verdad, muy superior
+								al funesto desenfreno y a la pérdida hartura; la hartura es</l>
+							<l>para los mortales un mal no peor que ningún otro: en efecto,</l>
+							<l>todo infortunio, Cirno, nace de estos.</l>
+						</lg>
+						<lg n="294">
+							<l>Si no sufrieras ni emprendieras acciones deshonrosas, Cirno,</l>
+							<l>tendrías la mayor prueba de virtud.</l>
+						</lg>
+						<lg n="295">
+							<l>Es preciso ser valiente cuando nuestro corazón se halle</l>
+							<l>en medio de duros sufrimientos, y pedir a los dioses inmortales
+								la</l>
+							<l>liberación de ellos.</l>
+						</lg>
+						<lg n="296">
+							<l>Cirno, respeta a los dioses y témelos; pues esto abstiene al</l>
+							<l>hombre de hacer y decir cosas impías.</l>
+						</lg>
+						<lg n="297">
+							<l>Por derribar, como quieres, a un tirano devorador de su pueblo</l>
+							<l>no hay ningún castigo de parte de los dioses.</l>
+						</lg>
+						<lg n="298">
+							<l>Cirno, los rayos del sol que ilumina a los mortales no</l>
+							<l>contemplan a ningún hombre al que no amenace la murmuración.</l>
+							<l>No puedo comprender el sentir que tienen mis conciudadanos;</l>
+							<l>pues ni obrando bien ni obrando mal les soy agradable.</l>
+						</lg>
+						<lg n="299">
+							<l>La inteligencia es un don precioso, también la lngua; pero se</l>
+							<l>encuentran en pocos hombres que sean buenos administradores de
+								ambas.</l>
+						</lg>
+						<lg n="300">
+							<l>Nadie, aunque pague un rescate, escaparía de la muerte ni del</l>
+							<l>penoso infortunio, a no ser que el destino le pusiera límite, ni
+								de</l>
+							<l>las inquietudes, cuando un dios envía dolores, puede escapar un
+								mortal</l>
+							<l>intentándolo con unas ofrendas.</l>
+						</lg>
+						<lg n="301">
+							<l>No quiero yacer después de muerto en un catafalco regio, sino</l>
+							<l>tener algún bien mienras estoy vivo. Las zarzas son para los
+								tapices</l>
+							<l>igual lecho que para un muerto; el leño le resulta duro y
+								blando.</l>
+						</lg>
+						<lg n="302">
+							<l>No jures en vano por los dioses; pues no es tolerable ocultar</l>
+							<l>a los inmortales la deuda contraída.</l>
+						</lg>
+						<lg n="303">
+							<l>He oído, Polipaides, el canto del ave que chilla agudamente,</l>
+							<l>que venido para los mortales como mensajera de la labranza</l>
+							<l>propia de la estación: ha acudido mi negro corazón, porque otros
+								poseen mis florecientes campos y las mulas ya no</l>
+							<l>arrastran para mí el curvo arado a causa de la buscada
+								navegación.</l>
+						</lg>
+					</div>
+					<div n="1203">
+						<lg n="304">
+							<l>No iré ni será invocado por mí. Ni irá bajo tierra un tirano</l>
+							<l>llorado en su tumba, ni tampoco él e afligirá si yo muriese ni</l>
+							<l>derramaría de sus ojos cálidas lágrimas.</l>
+						</lg>
+						<lg n="305">
+							<l>No te impedimos asistir a la fiesta ni te invitamos; eres molesto</l>
+							<l>cuando estás presente y querido cuando estás ausente.</l>
+						</lg>
+						<lg n="306">
+							<l>En cuando a mi linaje, soy Etón y hanito en la bien amurallada</l>
+							<l>ciudad de Tebas, exiliado de mi tierra patria.</l>
+						</lg>
+						<lg n="307">
+							<l>No denostes a mis queridos padres burlándote simplemente</l>
+							<l>de mí, Argiris; pues tú estás sometida a una jornada de esclava;</l>
+							<l>mas yo padezco otros muchos infortunios, mujer, ya que estoy</l>
+							<l>desterrado de mi tierra, pero no sufro la amarga esclavitud ni
+								me</l>
+							<l>pueden vender; y tengo, además, una hermosa ciudad, emplazada</l>
+							<l>en la llanura Letea.</l>
+						</lg>
+						<lg n="308">
+							<l>Nunca nos riamoscuando estemos sentados junto a alguien</l>
+							<l>que llora, Cirno, regocijándose de nuestra fortuna.</l>
+						</lg>
+						<lg n="309">
+							<l>Es díficil hasta que el enemigo engañe a un enemigo, Cirno:</l>
+							<l>mas al amigo le es fácil engañar a un amigo.</l>
+						</lg>
+						<lg n="310">
+							<l>La palabra acostumbrada a acarrear alos mortales muchos
+								disgustos,</l>
+							<l>Cirno, cuando su entendimiento se turba.</l>
+						</lg>
+						<lg n="311">
+							<l>Nada hay, Cirno, más injusto que la cólera, que daña al que la</l>
+							<l>tiene, ya que complace su corazón con vilezas.</l>
+						</lg>
+						<lg n="312">
+							<l>Nada hay, Cirno, más que una buena esposa; yo soy testigo</l>
+							<l>y tú sélo de mi veracidad.</l>
+						</lg>
+						<lg n="313">
+							<l>Pues ya a casa me ha llamado un cadáver marino, que, aunque</l>
+							<l>muerto, lanza su voz con una boca que está viva.</l>
+						</lg>
+
+					</div>
+				</div>
+			</div>
+
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listPlace>
+
+	<place xml:id="Delos" type="isla">
+		<location>
+			<placeName type="gr">Δῆλος</placeName>
+			<placeName type="es">Delos</placeName>
+			<geo>37.398476, 25.268918</geo>
+		</location>
+
+		<place xml:id="Troya" type="ciudad">
+			<location>
+				<placeName type="gr">Τροία</placeName>
+				<placeName type="es">Troya</placeName>
+				<geo> 39.9575, 26.238889</geo>
+			</location>
+		</place>
+
+
+		<place xml:id="Hades" type="lugar">
+			<location>
+				<placeName type="gr">Ἅιδης</placeName>
+				<placeName type="es">Hades</placeName>
+				<geo></geo>
+			</location>
+		</place>
+
+		<place xml:id="Olimpo" type="lugar">
+			<location>
+				<placeName type="gr">Ὀλύμπιος</placeName>
+				<placeName type="es">Olimpo</placeName>
+				<geo></geo>
+			</location>
+		</place>
+
+		<place xml:id="Melios" type="mar">
+			<location>
+				<placeName type="gr">Μήλιος</placeName>
+				<placeName type="es">Melios</placeName>
+				<geo>36.733333, 24.416667</geo>
+			</location>
+		</place>
+
+		<place xml:id="Grecia" type="país">
+			<location>
+				<placeName type="gr">Ἕλλην<placeName>
+					<placeName type="es">Grecia</placeName>
+					<geo>39.000000, 22.000000</geo>
+					</location>
+				</place>
+
+				<place xml:id="Eurotas" type="río">
+					<location>
+						<placeName type="gr">Εὐρώτας</placeName>
+						<placeName type="es">Eurotas</placeName>
+						<geo>36.804167, 22.695833</geo>
+					</location>
+				</place>
+
+				<place xml:id="Sicilia" type="isla">
+					<location>
+						<placeName type="gr">Σικελός</placeName>
+						<placeName type="es">Sicilia</placeName>
+						<geo>37.688772, 13.934969</geo>
+					</location>
+				</place>
+
+
+				<place xml:id="Eubea" type="llanura">
+					<location>
+						<placeName type="gr">Εὔβοια</placeName>
+						<placeName type="es">Eubea</placeName>
+						<geo>38.5, 24</geo>
+						</location>
+					</place>
+
+					<place xml:id="Esparta" type="ciudad">
+						<location>
+							<placeName type="gr">Σπάρτη</placeName>
+							<placeName type="es">Esparta</placeName>
+							<geo>37.066667, 22.416667</geo>
+						</location>
+					</place>
+
+					<place xml:id="Taigeto" type="monte">
+						<location>
+							<placeName type="gr">Τηϋγέτος</placeName>
+							<placeName type="es">Taigeto </placeName>
+							<geo>36.953544, 22.349956 </geo>
+						</location>
+					</place>
+
+
+
+					<place xml:id="Platanistunte" type="llanura">
+						<location>
+							<placeName type="gr">Πλατανιστοῦς</placeName>
+							<placeName type="es">Platanistunte</placeName>
+							<geo>37.531821, 21.730560</geo>
+						</location>
+					</place>
+
+
+					<place xml:id="Cerinto" type="ciudad">
+						<location>
+							<placeName type="gr">Κήρινθος</placeName>
+							<placeName type="es">Cerinto</placeName>
+							<geo>38.808831, 23.444288</geo>
+						</location>
+					</place>
+
+
+					<place xml:id="Lelanto" type="llanura">
+						<location>
+							<placeName type="gr">Ληλάντος</placeName>
+							<placeName type="es">Lelanto</placeName>
+							<geo> 38.429226, 23.716388 </placeName>
+						</location>
+					</place>
+
+					<place xml:id="Molos" type="ciudad">
+						<location>
+							<placeName type="gr">Mῶλος</placeName>
+							<placeName type="es">Molos</placeName>
+							<geo>38.809011, 22.646046 </geo>
+						</location>
+					</place>
+
+					<place xml:id="Tártaro" type="lugar">
+						<location>
+							<placeName type="gr">Τάρταρος</placeName>
+							<placeName type="es">Tártaro</placeName>
+							<geo></geo>
+						</location>
+					</place>
+
+					<place xml:id="Lacedemonia" type="región">
+						<location>
+							<placeName type="gr">Λακεδαίμων</placeName>
+							<placeName type="es">Lacedemonia</placeName>
+							<geo>36.9167, 22.6667</geo>
+						</location>
+					</place>
+
+					<place xml:id="Colofón" type="ciudad">
+						<location>
+							<placeName type="gr">Kολοφών</placeName>
+							<placeName type="es">Colofón</placeName>
+							<geo>38.115556, 27.142222</geo>
+						</location>
+					</place>
+
+					<place xml:id="Esmirna" type="ciudad">
+						<location>
+							<placeName type="gr">Σμύρνα</placeName>
+							<placeName type="es">Esmirna</placeName>
+							<geo> 38.433333, 27.15</geo>
+						</location>
+					</place>
+
+
+					<place xml:id="Letea" type="llanura">
+						<location>
+							<placeName type="gr">Λήθαιος</placeName>
+							<placeName type="es">llanura Letea</placeName>
+							<geo></geo> <!--cabe posibilidad que hace referencia a un río del Hades-->
+						</location>
+					</place>
+
+					<place xml:id="Pitón" type="ciudad">
+						<location>
+							<placeName type="gr"> Πυθῶν</placeName>
+							<placeName type="es">Pitón(Pitia)</placeName>
+							<geo>
+							</location>
+						</place>
+
+						<place xml:id="Tebas" type="ciudad">
+							<location>
+								<placeName type="gr">Θήβη</placeName>
+								<placeName type="es">Tebas</placeName>
+								<geo>38.324167, 23.323611</geo>
+							</location>
+						</place>
+
+					</listPlace>
+
+
+
+
+
+
+
+
+
